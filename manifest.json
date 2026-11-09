@@ -1,0 +1,4920 @@
+{
+  "generatedAt": "2026-11-09T20:02:22.737Z",
+  "total": 819,
+  "actions": [
+    {
+      "pack": "dsh",
+      "name": "三球抛接",
+      "webm": "pets/dsh/三球抛接.webm",
+      "bytes": 549316
+    },
+    {
+      "pack": "dsh",
+      "name": "下五子棋",
+      "webm": "pets/dsh/下五子棋.webm",
+      "bytes": 514704
+    },
+    {
+      "pack": "dsh",
+      "name": "东张西望",
+      "webm": "pets/dsh/东张西望.webm",
+      "bytes": 427005
+    },
+    {
+      "pack": "dsh",
+      "name": "中秋赏月吃月饼",
+      "webm": "pets/dsh/中秋赏月吃月饼.webm",
+      "bytes": 512341
+    },
+    {
+      "pack": "dsh",
+      "name": "优雅女仆舞",
+      "webm": "pets/dsh/优雅女仆舞.webm",
+      "bytes": 578915
+    },
+    {
+      "pack": "dsh",
+      "name": "余额-分文不剩",
+      "webm": "pets/dsh/余额-分文不剩.webm",
+      "bytes": 490318
+    },
+    {
+      "pack": "dsh",
+      "name": "余额-数金皱眉",
+      "webm": "pets/dsh/余额-数金皱眉.webm",
+      "bytes": 319065
+    },
+    {
+      "pack": "dsh",
+      "name": "余额-袋空如洗",
+      "webm": "pets/dsh/余额-袋空如洗.webm",
+      "bytes": 383104
+    },
+    {
+      "pack": "dsh",
+      "name": "余额-金袋叮当",
+      "webm": "pets/dsh/余额-金袋叮当.webm",
+      "bytes": 530955
+    },
+    {
+      "pack": "dsh",
+      "name": "余额-钱袋如常",
+      "webm": "pets/dsh/余额-钱袋如常.webm",
+      "bytes": 387407
+    },
+    {
+      "pack": "dsh",
+      "name": "余额-钱袋满溢",
+      "webm": "pets/dsh/余额-钱袋满溢.webm",
+      "bytes": 622258
+    },
+    {
+      "pack": "dsh",
+      "name": "偷吃零食被抓住",
+      "webm": "pets/dsh/偷吃零食被抓住.webm",
+      "bytes": 432201
+    },
+    {
+      "pack": "dsh",
+      "name": "写代码",
+      "webm": "pets/dsh/写代码.webm",
+      "bytes": 383960
+    },
+    {
+      "pack": "dsh",
+      "name": "写福字",
+      "webm": "pets/dsh/写福字.webm",
+      "bytes": 500314
+    },
+    {
+      "pack": "dsh",
+      "name": "凭空生花",
+      "webm": "pets/dsh/凭空生花.webm",
+      "bytes": 620252
+    },
+    {
+      "pack": "dsh",
+      "name": "动物环绕",
+      "webm": "pets/dsh/动物环绕.webm",
+      "bytes": 981435
+    },
+    {
+      "pack": "dsh",
+      "name": "原地专心玩魔方",
+      "webm": "pets/dsh/原地专心玩魔方.webm",
+      "bytes": 442948
+    },
+    {
+      "pack": "dsh",
+      "name": "原地小憩沉眠",
+      "webm": "pets/dsh/原地小憩沉眠.webm",
+      "bytes": 433769
+    },
+    {
+      "pack": "dsh",
+      "name": "原地左转奔跑",
+      "webm": "pets/dsh/原地左转奔跑.webm",
+      "bytes": 614526
+    },
+    {
+      "pack": "dsh",
+      "name": "原地敲击桌面互动",
+      "webm": "pets/dsh/原地敲击桌面互动.webm",
+      "bytes": 403033
+    },
+    {
+      "pack": "dsh",
+      "name": "原地漂浮踏步",
+      "webm": "pets/dsh/原地漂浮踏步.webm",
+      "bytes": 591446
+    },
+    {
+      "pack": "dsh",
+      "name": "原地跳跃抓碎头顶物品",
+      "webm": "pets/dsh/原地跳跃抓碎头顶物品.webm",
+      "bytes": 619282
+    },
+    {
+      "pack": "dsh",
+      "name": "原地蹲下玩玩具汽车",
+      "webm": "pets/dsh/原地蹲下玩玩具汽车.webm",
+      "bytes": 505114
+    },
+    {
+      "pack": "dsh",
+      "name": "原地重力下蹲压缩",
+      "webm": "pets/dsh/原地重力下蹲压缩.webm",
+      "bytes": 215047
+    },
+    {
+      "pack": "dsh",
+      "name": "变鸽子",
+      "webm": "pets/dsh/变鸽子.webm",
+      "bytes": 509462
+    },
+    {
+      "pack": "dsh",
+      "name": "可爱宅舞",
+      "webm": "pets/dsh/可爱宅舞.webm",
+      "bytes": 576307
+    },
+    {
+      "pack": "dsh",
+      "name": "吃Token",
+      "webm": "pets/dsh/吃Token.webm",
+      "bytes": 574754
+    },
+    {
+      "pack": "dsh",
+      "name": "吃冰淇淋融化",
+      "webm": "pets/dsh/吃冰淇淋融化.webm",
+      "bytes": 509816
+    },
+    {
+      "pack": "dsh",
+      "name": "吃午餐",
+      "webm": "pets/dsh/吃午餐.webm",
+      "bytes": 495122
+    },
+    {
+      "pack": "dsh",
+      "name": "吃大闸蟹",
+      "webm": "pets/dsh/吃大闸蟹.webm",
+      "bytes": 545299
+    },
+    {
+      "pack": "dsh",
+      "name": "吃年糕",
+      "webm": "pets/dsh/吃年糕.webm",
+      "bytes": 451257
+    },
+    {
+      "pack": "dsh",
+      "name": "吃早餐",
+      "webm": "pets/dsh/吃早餐.webm",
+      "bytes": 441484
+    },
+    {
+      "pack": "dsh",
+      "name": "吃晚餐",
+      "webm": "pets/dsh/吃晚餐.webm",
+      "bytes": 741965
+    },
+    {
+      "pack": "dsh",
+      "name": "吃汤圆",
+      "webm": "pets/dsh/吃汤圆.webm",
+      "bytes": 437152
+    },
+    {
+      "pack": "dsh",
+      "name": "吃白饭",
+      "webm": "pets/dsh/吃白饭.webm",
+      "bytes": 459590
+    },
+    {
+      "pack": "dsh",
+      "name": "吃粽子",
+      "webm": "pets/dsh/吃粽子.webm",
+      "bytes": 446268
+    },
+    {
+      "pack": "dsh",
+      "name": "吃糖葫芦",
+      "webm": "pets/dsh/吃糖葫芦.webm",
+      "bytes": 469809
+    },
+    {
+      "pack": "dsh",
+      "name": "吃腊八粥",
+      "webm": "pets/dsh/吃腊八粥.webm",
+      "bytes": 460665
+    },
+    {
+      "pack": "dsh",
+      "name": "吃西瓜",
+      "webm": "pets/dsh/吃西瓜.webm",
+      "bytes": 482918
+    },
+    {
+      "pack": "dsh",
+      "name": "吃重阳糕",
+      "webm": "pets/dsh/吃重阳糕.webm",
+      "bytes": 468951
+    },
+    {
+      "pack": "dsh",
+      "name": "吃长寿面",
+      "webm": "pets/dsh/吃长寿面.webm",
+      "bytes": 489038
+    },
+    {
+      "pack": "dsh",
+      "name": "吃青团",
+      "webm": "pets/dsh/吃青团.webm",
+      "bytes": 377524
+    },
+    {
+      "pack": "dsh",
+      "name": "吃饺子",
+      "webm": "pets/dsh/吃饺子.webm",
+      "bytes": 554828
+    },
+    {
+      "pack": "dsh",
+      "name": "吹气球",
+      "webm": "pets/dsh/吹气球.webm",
+      "bytes": 751040
+    },
+    {
+      "pack": "dsh",
+      "name": "吹笛子",
+      "webm": "pets/dsh/吹笛子.webm",
+      "bytes": 768350
+    },
+    {
+      "pack": "dsh",
+      "name": "哈欠连天",
+      "webm": "pets/dsh/哈欠连天.webm",
+      "bytes": 424352
+    },
+    {
+      "pack": "dsh",
+      "name": "大口吃零食",
+      "webm": "pets/dsh/大口吃零食.webm",
+      "bytes": 806998
+    },
+    {
+      "pack": "dsh",
+      "name": "女仆屈膝礼仪",
+      "webm": "pets/dsh/女仆屈膝礼仪.webm",
+      "bytes": 365712
+    },
+    {
+      "pack": "dsh",
+      "name": "小幅度原地360度旋转展示",
+      "webm": "pets/dsh/小幅度原地360度旋转展示.webm",
+      "bytes": 585715
+    },
+    {
+      "pack": "dsh",
+      "name": "小提琴演奏",
+      "webm": "pets/dsh/小提琴演奏.webm",
+      "bytes": 605350
+    },
+    {
+      "pack": "dsh",
+      "name": "工作状态-原地踱步张望",
+      "webm": "pets/dsh/工作状态-原地踱步张望.webm",
+      "bytes": 471725
+    },
+    {
+      "pack": "dsh",
+      "name": "工作状态-垂头叹气冒汗",
+      "webm": "pets/dsh/工作状态-垂头叹气冒汗.webm",
+      "bytes": 198937
+    },
+    {
+      "pack": "dsh",
+      "name": "工作状态-忙碌点按",
+      "webm": "pets/dsh/工作状态-忙碌点按.webm",
+      "bytes": 475613
+    },
+    {
+      "pack": "dsh",
+      "name": "工作状态-思考冒泡",
+      "webm": "pets/dsh/工作状态-思考冒泡.webm",
+      "bytes": 408849
+    },
+    {
+      "pack": "dsh",
+      "name": "工作状态-清点归档",
+      "webm": "pets/dsh/工作状态-清点归档.webm",
+      "bytes": 362510
+    },
+    {
+      "pack": "dsh",
+      "name": "工作状态-雀跃庆祝",
+      "webm": "pets/dsh/工作状态-雀跃庆祝.webm",
+      "bytes": 488024
+    },
+    {
+      "pack": "dsh",
+      "name": "待机呼吸休闲",
+      "webm": "pets/dsh/待机呼吸休闲.webm",
+      "bytes": 441437
+    },
+    {
+      "pack": "dsh",
+      "name": "悠闲哼歌",
+      "webm": "pets/dsh/悠闲哼歌.webm",
+      "bytes": 584008
+    },
+    {
+      "pack": "dsh",
+      "name": "扑克魔术",
+      "webm": "pets/dsh/扑克魔术.webm",
+      "bytes": 461997
+    },
+    {
+      "pack": "dsh",
+      "name": "打瞌睡被惊醒",
+      "webm": "pets/dsh/打瞌睡被惊醒.webm",
+      "bytes": 454028
+    },
+    {
+      "pack": "dsh",
+      "name": "抽陀螺",
+      "webm": "pets/dsh/抽陀螺.webm",
+      "bytes": 521068
+    },
+    {
+      "pack": "dsh",
+      "name": "插茱萸赏菊",
+      "webm": "pets/dsh/插茱萸赏菊.webm",
+      "bytes": 486358
+    },
+    {
+      "pack": "dsh",
+      "name": "摇扇纳凉",
+      "webm": "pets/dsh/摇扇纳凉.webm",
+      "bytes": 510022
+    },
+    {
+      "pack": "dsh",
+      "name": "撸猫",
+      "webm": "pets/dsh/撸猫.webm",
+      "bytes": 348432
+    },
+    {
+      "pack": "dsh",
+      "name": "收红包",
+      "webm": "pets/dsh/收红包.webm",
+      "bytes": 472277
+    },
+    {
+      "pack": "dsh",
+      "name": "放孔明灯",
+      "webm": "pets/dsh/放孔明灯.webm",
+      "bytes": 594144
+    },
+    {
+      "pack": "dsh",
+      "name": "放河灯",
+      "webm": "pets/dsh/放河灯.webm",
+      "bytes": 379124
+    },
+    {
+      "pack": "dsh",
+      "name": "放烟花",
+      "webm": "pets/dsh/放烟花.webm",
+      "bytes": 1330462
+    },
+    {
+      "pack": "dsh",
+      "name": "整体换装试色",
+      "webm": "pets/dsh/整体换装试色.webm",
+      "bytes": 524724
+    },
+    {
+      "pack": "dsh",
+      "name": "是啊，吃什么",
+      "webm": "pets/dsh/是啊，吃什么.webm",
+      "bytes": 588163
+    },
+    {
+      "pack": "dsh",
+      "name": "晨间刷牙",
+      "webm": "pets/dsh/晨间刷牙.webm",
+      "bytes": 425460
+    },
+    {
+      "pack": "dsh",
+      "name": "涮火锅",
+      "webm": "pets/dsh/涮火锅.webm",
+      "bytes": 466547
+    },
+    {
+      "pack": "dsh",
+      "name": "深度思考碎碎念",
+      "webm": "pets/dsh/深度思考碎碎念.webm",
+      "bytes": 433031
+    },
+    {
+      "pack": "dsh",
+      "name": "点击回应-傲娇生气",
+      "webm": "pets/dsh/点击回应-傲娇生气.webm",
+      "bytes": 392336
+    },
+    {
+      "pack": "dsh",
+      "name": "点击回应-元气挥手",
+      "webm": "pets/dsh/点击回应-元气挥手.webm",
+      "bytes": 421669
+    },
+    {
+      "pack": "dsh",
+      "name": "点击回应-害羞惊讶",
+      "webm": "pets/dsh/点击回应-害羞惊讶.webm",
+      "bytes": 538281
+    },
+    {
+      "pack": "dsh",
+      "name": "点击回应-开心跃动",
+      "webm": "pets/dsh/点击回应-开心跃动.webm",
+      "bytes": 538110
+    },
+    {
+      "pack": "dsh",
+      "name": "点击回应-挠痒咯咯笑",
+      "webm": "pets/dsh/点击回应-挠痒咯咯笑.webm",
+      "bytes": 425393
+    },
+    {
+      "pack": "dsh",
+      "name": "照镜子",
+      "webm": "pets/dsh/照镜子.webm",
+      "bytes": 504127
+    },
+    {
+      "pack": "dsh",
+      "name": "玩水枪",
+      "webm": "pets/dsh/玩水枪.webm",
+      "bytes": 523346
+    },
+    {
+      "pack": "dsh",
+      "name": "玩游戏气急败坏",
+      "webm": "pets/dsh/玩游戏气急败坏.webm",
+      "bytes": 525022
+    },
+    {
+      "pack": "dsh",
+      "name": "用鲸鱼尾巴拍打地面",
+      "webm": "pets/dsh/用鲸鱼尾巴拍打地面.webm",
+      "bytes": 352213
+    },
+    {
+      "pack": "dsh",
+      "name": "碎碎念-发呆碎碎念",
+      "webm": "pets/dsh/碎碎念-发呆碎碎念.webm",
+      "bytes": 326752
+    },
+    {
+      "pack": "dsh",
+      "name": "碎碎念-对屏碎碎念",
+      "webm": "pets/dsh/碎碎念-对屏碎碎念.webm",
+      "bytes": 364946
+    },
+    {
+      "pack": "dsh",
+      "name": "碎碎念-擦桌碎碎念",
+      "webm": "pets/dsh/碎碎念-擦桌碎碎念.webm",
+      "bytes": 350436
+    },
+    {
+      "pack": "dsh",
+      "name": "穿针乞巧",
+      "webm": "pets/dsh/穿针乞巧.webm",
+      "bytes": 480887
+    },
+    {
+      "pack": "dsh",
+      "name": "舞狮头",
+      "webm": "pets/dsh/舞狮头.webm",
+      "bytes": 632110
+    },
+    {
+      "pack": "dsh",
+      "name": "荡秋千",
+      "webm": "pets/dsh/荡秋千.webm",
+      "bytes": 644126
+    },
+    {
+      "pack": "dsh",
+      "name": "萌化小幽灵",
+      "webm": "pets/dsh/萌化小幽灵.webm",
+      "bytes": 421990
+    },
+    {
+      "pack": "dsh",
+      "name": "蓝鲸现世",
+      "webm": "pets/dsh/蓝鲸现世.webm",
+      "bytes": 482896
+    },
+    {
+      "pack": "dsh",
+      "name": "蝴蝶蜜蜂环绕头顶开花",
+      "webm": "pets/dsh/蝴蝶蜜蜂环绕头顶开花.webm",
+      "bytes": 852828
+    },
+    {
+      "pack": "dsh",
+      "name": "螃蟹走路",
+      "webm": "pets/dsh/螃蟹走路.webm",
+      "bytes": 596902
+    },
+    {
+      "pack": "dsh",
+      "name": "被吓一跳",
+      "webm": "pets/dsh/被吓一跳.webm",
+      "bytes": 282771
+    },
+    {
+      "pack": "dsh",
+      "name": "被落叶淹没",
+      "webm": "pets/dsh/被落叶淹没.webm",
+      "bytes": 766832
+    },
+    {
+      "pack": "dsh",
+      "name": "被鼠标拖拽悬空反馈",
+      "webm": "pets/dsh/被鼠标拖拽悬空反馈.webm",
+      "bytes": 464764
+    },
+    {
+      "pack": "dsh",
+      "name": "装点圣诞树",
+      "webm": "pets/dsh/装点圣诞树.webm",
+      "bytes": 818456
+    },
+    {
+      "pack": "dsh",
+      "name": "讨糖南瓜灯",
+      "webm": "pets/dsh/讨糖南瓜灯.webm",
+      "bytes": 483293
+    },
+    {
+      "pack": "dsh",
+      "name": "超大伸懒腰",
+      "webm": "pets/dsh/超大伸懒腰.webm",
+      "bytes": 396987
+    },
+    {
+      "pack": "dsh",
+      "name": "轻快摇摆舞",
+      "webm": "pets/dsh/轻快摇摆舞.webm",
+      "bytes": 542928
+    },
+    {
+      "pack": "dsh",
+      "name": "轻快记录",
+      "webm": "pets/dsh/轻快记录.webm",
+      "bytes": 447726
+    },
+    {
+      "pack": "dsh",
+      "name": "鲸鱼吐泡泡特效",
+      "webm": "pets/dsh/鲸鱼吐泡泡特效.webm",
+      "bytes": 452096
+    },
+    {
+      "pack": "dsh1",
+      "name": "中国功夫",
+      "webm": "pets/dsh1/中国功夫.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "举哑铃弯举",
+      "webm": "pets/dsh1/举哑铃弯举.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "举杯敬酒",
+      "webm": "pets/dsh1/举杯敬酒.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "举糖葫芦",
+      "webm": "pets/dsh1/举糖葫芦.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "举荧光棒应援",
+      "webm": "pets/dsh1/举荧光棒应援.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "交响乐指挥",
+      "webm": "pets/dsh1/交响乐指挥.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "侧身举相机拍别人",
+      "webm": "pets/dsh1/侧身举相机拍别人.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "保安举金属探测仪",
+      "webm": "pets/dsh1/保安举金属探测仪.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "写毛笔字",
+      "webm": "pets/dsh1/写毛笔字.webm",
+      "bytes": 65419
+    },
+    {
+      "pack": "dsh1",
+      "name": "冰箱翻吃的",
+      "webm": "pets/dsh1/冰箱翻吃的.webm",
+      "bytes": 58438
+    },
+    {
+      "pack": "dsh1",
+      "name": "切蛋糕",
+      "webm": "pets/dsh1/切蛋糕.webm",
+      "bytes": 65163
+    },
+    {
+      "pack": "dsh1",
+      "name": "刷牙",
+      "webm": "pets/dsh1/刷牙.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "剥橘子",
+      "webm": "pets/dsh1/剥橘子.webm",
+      "bytes": 36593
+    },
+    {
+      "pack": "dsh1",
+      "name": "剪刘海",
+      "webm": "pets/dsh1/剪刘海.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "剪指甲",
+      "webm": "pets/dsh1/剪指甲.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "包饺子",
+      "webm": "pets/dsh1/包饺子.webm",
+      "bytes": 494
+    },
+    {
+      "pack": "dsh1",
+      "name": "医生听诊",
+      "webm": "pets/dsh1/医生听诊.webm",
+      "bytes": 505
+    },
+    {
+      "pack": "dsh1",
+      "name": "单脚闭眼平衡",
+      "webm": "pets/dsh1/单脚闭眼平衡.webm",
+      "bytes": 494
+    },
+    {
+      "pack": "dsh1",
+      "name": "压腿拉伸",
+      "webm": "pets/dsh1/压腿拉伸.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "原地划桨",
+      "webm": "pets/dsh1/原地划桨.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "原地打羽毛球",
+      "webm": "pets/dsh1/原地打羽毛球.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "厨师抛饼",
+      "webm": "pets/dsh1/厨师抛饼.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "变戏法撒纸钱",
+      "webm": "pets/dsh1/变戏法撒纸钱.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "叠衣服",
+      "webm": "pets/dsh1/叠衣服.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "吸尘器吸地",
+      "webm": "pets/dsh1/吸尘器吸地.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "吹泡泡",
+      "webm": "pets/dsh1/吹泡泡.webm",
+      "bytes": 524288
+    },
+    {
+      "pack": "dsh1",
+      "name": "吹泡泡糖",
+      "webm": "pets/dsh1/吹泡泡糖.webm",
+      "bytes": 145243
+    },
+    {
+      "pack": "dsh1",
+      "name": "吹长笛",
+      "webm": "pets/dsh1/吹长笛.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "唱歌-清唱",
+      "webm": "pets/dsh1/唱歌-清唱.webm",
+      "bytes": 439905
+    },
+    {
+      "pack": "dsh1",
+      "name": "图书管理员嘘",
+      "webm": "pets/dsh1/图书管理员嘘.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "堆雪人",
+      "webm": "pets/dsh1/堆雪人.webm",
+      "bytes": 519196
+    },
+    {
+      "pack": "dsh1",
+      "name": "宇航员行走",
+      "webm": "pets/dsh1/宇航员行走.webm",
+      "bytes": 627517
+    },
+    {
+      "pack": "dsh1",
+      "name": "害羞捂脸偷看",
+      "webm": "pets/dsh1/害羞捂脸偷看.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "尴尬抠手指",
+      "webm": "pets/dsh1/尴尬抠手指.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "工作加班",
+      "webm": "pets/dsh1/工作加班.webm",
+      "bytes": 29955
+    },
+    {
+      "pack": "dsh1",
+      "name": "平板支撑",
+      "webm": "pets/dsh1/平板支撑.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "开合跳",
+      "webm": "pets/dsh1/开合跳.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "弹尤克里里",
+      "webm": "pets/dsh1/弹尤克里里.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "弹钢琴",
+      "webm": "pets/dsh1/弹钢琴.webm",
+      "bytes": 76959
+    },
+    {
+      "pack": "dsh1",
+      "name": "得意炫耀转圈",
+      "webm": "pets/dsh1/得意炫耀转圈.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "心疼捂胸口",
+      "webm": "pets/dsh1/心疼捂胸口.webm",
+      "bytes": 28567
+    },
+    {
+      "pack": "dsh1",
+      "name": "惊讶下巴掉",
+      "webm": "pets/dsh1/惊讶下巴掉.webm",
+      "bytes": 34458
+    },
+    {
+      "pack": "dsh1",
+      "name": "感动抹泪",
+      "webm": "pets/dsh1/感动抹泪.webm",
+      "bytes": 494
+    },
+    {
+      "pack": "dsh1",
+      "name": "手冲咖啡",
+      "webm": "pets/dsh1/手冲咖啡.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "手摇磨咖啡",
+      "webm": "pets/dsh1/手摇磨咖啡.webm",
+      "bytes": 161925
+    },
+    {
+      "pack": "dsh1",
+      "name": "扎马尾",
+      "webm": "pets/dsh1/扎马尾.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "打主机游戏",
+      "webm": "pets/dsh1/打主机游戏.webm",
+      "bytes": 505
+    },
+    {
+      "pack": "dsh1",
+      "name": "打乒乓球",
+      "webm": "pets/dsh1/打乒乓球.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "打嗝不停",
+      "webm": "pets/dsh1/打嗝不停.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "打太极拳",
+      "webm": "pets/dsh1/打太极拳.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "打快板",
+      "webm": "pets/dsh1/打快板.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "打滚-原地",
+      "webm": "pets/dsh1/打滚-原地.webm",
+      "bytes": 2359266
+    },
+    {
+      "pack": "dsh1",
+      "name": "打电话汇报",
+      "webm": "pets/dsh1/打电话汇报.webm",
+      "bytes": 1722248
+    },
+    {
+      "pack": "dsh1",
+      "name": "打雪仗",
+      "webm": "pets/dsh1/打雪仗.webm",
+      "bytes": 1928720
+    },
+    {
+      "pack": "dsh1",
+      "name": "抖空竹",
+      "webm": "pets/dsh1/抖空竹.webm",
+      "bytes": 2117966
+    },
+    {
+      "pack": "dsh1",
+      "name": "折纸飞机",
+      "webm": "pets/dsh1/折纸飞机.webm",
+      "bytes": 1784895
+    },
+    {
+      "pack": "dsh1",
+      "name": "折纸鹤",
+      "webm": "pets/dsh1/折纸鹤.webm",
+      "bytes": 2076649
+    },
+    {
+      "pack": "dsh1",
+      "name": "护士量血压",
+      "webm": "pets/dsh1/护士量血压.webm",
+      "bytes": 1823017
+    },
+    {
+      "pack": "dsh1",
+      "name": "拆礼物",
+      "webm": "pets/dsh1/拆礼物.webm",
+      "bytes": 517803
+    },
+    {
+      "pack": "dsh1",
+      "name": "拉小提琴",
+      "webm": "pets/dsh1/拉小提琴.webm",
+      "bytes": 2233777
+    },
+    {
+      "pack": "dsh1",
+      "name": "拍手鼓",
+      "webm": "pets/dsh1/拍手鼓.webm",
+      "bytes": 1849510
+    },
+    {
+      "pack": "dsh1",
+      "name": "拧干湿抹布",
+      "webm": "pets/dsh1/拧干湿抹布.webm",
+      "bytes": 1830418
+    },
+    {
+      "pack": "dsh1",
+      "name": "拼拼图",
+      "webm": "pets/dsh1/拼拼图.webm",
+      "bytes": 1959906
+    },
+    {
+      "pack": "dsh1",
+      "name": "挂彩旗",
+      "webm": "pets/dsh1/挂彩旗.webm",
+      "bytes": 2204176
+    },
+    {
+      "pack": "dsh1",
+      "name": "挂灯笼",
+      "webm": "pets/dsh1/挂灯笼.webm",
+      "bytes": 1951474
+    },
+    {
+      "pack": "dsh1",
+      "name": "指挥合唱",
+      "webm": "pets/dsh1/指挥合唱.webm",
+      "bytes": 2036471
+    },
+    {
+      "pack": "dsh1",
+      "name": "挤番茄酱",
+      "webm": "pets/dsh1/挤番茄酱.webm",
+      "bytes": 1873308
+    },
+    {
+      "pack": "dsh1",
+      "name": "捏面人",
+      "webm": "pets/dsh1/捏面人.webm",
+      "bytes": 1676808
+    },
+    {
+      "pack": "dsh1",
+      "name": "换装侦探服思考",
+      "webm": "pets/dsh1/换装侦探服思考.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "换装浴袍",
+      "webm": "pets/dsh1/换装浴袍.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "掏耳朵",
+      "webm": "pets/dsh1/掏耳朵.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "掰巧克力",
+      "webm": "pets/dsh1/掰巧克力.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "搭帐篷",
+      "webm": "pets/dsh1/搭帐篷.webm",
+      "bytes": 1928570
+    },
+    {
+      "pack": "dsh1",
+      "name": "搭积木",
+      "webm": "pets/dsh1/搭积木.webm",
+      "bytes": 1888177
+    },
+    {
+      "pack": "dsh1",
+      "name": "摄影师打光",
+      "webm": "pets/dsh1/摄影师打光.webm",
+      "bytes": 1673196
+    },
+    {
+      "pack": "dsh1",
+      "name": "摇沙锤",
+      "webm": "pets/dsh1/摇沙锤.webm",
+      "bytes": 2079907
+    },
+    {
+      "pack": "dsh1",
+      "name": "摇铃铛报喜",
+      "webm": "pets/dsh1/摇铃铛报喜.webm",
+      "bytes": 2069522
+    },
+    {
+      "pack": "dsh1",
+      "name": "摘花送镜头",
+      "webm": "pets/dsh1/摘花送镜头.webm",
+      "bytes": 2035384
+    },
+    {
+      "pack": "dsh1",
+      "name": "撒盐调味",
+      "webm": "pets/dsh1/撒盐调味.webm",
+      "bytes": 1638935
+    },
+    {
+      "pack": "dsh1",
+      "name": "撒花瓣",
+      "webm": "pets/dsh1/撒花瓣.webm",
+      "bytes": 2404233
+    },
+    {
+      "pack": "dsh1",
+      "name": "擀饺子皮",
+      "webm": "pets/dsh1/擀饺子皮.webm",
+      "bytes": 1856690
+    },
+    {
+      "pack": "dsh1",
+      "name": "擦窗户",
+      "webm": "pets/dsh1/擦窗户.webm",
+      "bytes": 2107176
+    },
+    {
+      "pack": "dsh1",
+      "name": "收拾书桌",
+      "webm": "pets/dsh1/收拾书桌.webm",
+      "bytes": 1967430
+    },
+    {
+      "pack": "dsh1",
+      "name": "收纳行李箱",
+      "webm": "pets/dsh1/收纳行李箱.webm",
+      "bytes": 1987265
+    },
+    {
+      "pack": "dsh1",
+      "name": "放礼花筒",
+      "webm": "pets/dsh1/放礼花筒.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "放风筝",
+      "webm": "pets/dsh1/放风筝.webm",
+      "bytes": 770134
+    },
+    {
+      "pack": "dsh1",
+      "name": "放飞纸飞机",
+      "webm": "pets/dsh1/放飞纸飞机.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "敲木琴",
+      "webm": "pets/dsh1/敲木琴.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "敲木鱼祈福",
+      "webm": "pets/dsh1/敲木鱼祈福.webm",
+      "bytes": 0
+    },
+    {
+      "pack": "dsh1",
+      "name": "敲锣打鼓拜年",
+      "webm": "pets/dsh1/敲锣打鼓拜年.webm",
+      "bytes": 1973811
+    },
+    {
+      "pack": "dsh1",
+      "name": "整理鞋柜",
+      "webm": "pets/dsh1/整理鞋柜.webm",
+      "bytes": 2210082
+    },
+    {
+      "pack": "dsh1",
+      "name": "敷面膜",
+      "webm": "pets/dsh1/敷面膜.webm",
+      "bytes": 1958641
+    },
+    {
+      "pack": "dsh1",
+      "name": "无语扶额",
+      "webm": "pets/dsh1/无语扶额.webm",
+      "bytes": 1665091
+    },
+    {
+      "pack": "dsh1",
+      "name": "服务生托盘",
+      "webm": "pets/dsh1/服务生托盘.webm",
+      "bytes": 2254606
+    },
+    {
+      "pack": "dsh1",
+      "name": "木匠锯木头",
+      "webm": "pets/dsh1/木匠锯木头.webm",
+      "bytes": 1919859
+    },
+    {
+      "pack": "dsh1",
+      "name": "梳理鲸鱼尾巴",
+      "webm": "pets/dsh1/梳理鲸鱼尾巴.webm",
+      "bytes": 1999833
+    },
+    {
+      "pack": "dsh1",
+      "name": "检票打孔",
+      "webm": "pets/dsh1/检票打孔.webm",
+      "bytes": 1592120
+    },
+    {
+      "pack": "dsh1",
+      "name": "水彩作画",
+      "webm": "pets/dsh1/水彩作画.webm",
+      "bytes": 1310720
+    },
+    {
+      "pack": "dsh1",
+      "name": "沙发打瞌睡",
+      "webm": "pets/dsh1/沙发打瞌睡.webm",
+      "bytes": 1048576
+    },
+    {
+      "pack": "dsh1",
+      "name": "洗碗",
+      "webm": "pets/dsh1/洗碗.webm",
+      "bytes": 1310720
+    },
+    {
+      "pack": "dsh1",
+      "name": "洗脸",
+      "webm": "pets/dsh1/洗脸.webm",
+      "bytes": 1310720
+    },
+    {
+      "pack": "dsh1",
+      "name": "涂口红",
+      "webm": "pets/dsh1/涂口红.webm",
+      "bytes": 1616672
+    },
+    {
+      "pack": "dsh1",
+      "name": "消防员持水枪",
+      "webm": "pets/dsh1/消防员持水枪.webm",
+      "bytes": 1720382
+    },
+    {
+      "pack": "dsh1",
+      "name": "深蹲举杠铃",
+      "webm": "pets/dsh1/深蹲举杠铃.webm",
+      "bytes": 2107718
+    },
+    {
+      "pack": "dsh1",
+      "name": "滑雪",
+      "webm": "pets/dsh1/滑雪.webm",
+      "bytes": 2300583
+    },
+    {
+      "pack": "dsh1",
+      "name": "滴眼药水",
+      "webm": "pets/dsh1/滴眼药水.webm",
+      "bytes": 1703670
+    },
+    {
+      "pack": "dsh1",
+      "name": "潜水比手势",
+      "webm": "pets/dsh1/潜水比手势.webm",
+      "bytes": 2046198
+    },
+    {
+      "pack": "dsh1",
+      "name": "点许愿灯",
+      "webm": "pets/dsh1/点许愿灯.webm",
+      "bytes": 1854075
+    },
+    {
+      "pack": "dsh1",
+      "name": "烤饼干",
+      "webm": "pets/dsh1/烤饼干.webm",
+      "bytes": 2049263
+    },
+    {
+      "pack": "dsh1",
+      "name": "煮泡面",
+      "webm": "pets/dsh1/煮泡面.webm",
+      "bytes": 1928978
+    },
+    {
+      "pack": "dsh1",
+      "name": "熨衣服",
+      "webm": "pets/dsh1/熨衣服.webm",
+      "bytes": 1803340
+    },
+    {
+      "pack": "dsh1",
+      "name": "熬夜刷手机",
+      "webm": "pets/dsh1/熬夜刷手机.webm",
+      "bytes": 2935295
+    },
+    {
+      "pack": "dsh1",
+      "name": "狂喜原地跳",
+      "webm": "pets/dsh1/狂喜原地跳.webm",
+      "bytes": 1852161
+    },
+    {
+      "pack": "dsh1",
+      "name": "理发师剪发",
+      "webm": "pets/dsh1/理发师剪发.webm",
+      "bytes": 1886977
+    },
+    {
+      "pack": "dsh1",
+      "name": "瑜伽树式",
+      "webm": "pets/dsh1/瑜伽树式.webm",
+      "bytes": 1742577
+    },
+    {
+      "pack": "dsh1",
+      "name": "生气鼓腮跺脚",
+      "webm": "pets/dsh1/生气鼓腮跺脚.webm",
+      "bytes": 1714747
+    },
+    {
+      "pack": "dsh1",
+      "name": "甩拉面",
+      "webm": "pets/dsh1/甩拉面.webm",
+      "bytes": 2083106
+    },
+    {
+      "pack": "dsh1",
+      "name": "画家调色",
+      "webm": "pets/dsh1/画家调色.webm",
+      "bytes": 1693509
+    },
+    {
+      "pack": "dsh1",
+      "name": "看恐怖片捂眼",
+      "webm": "pets/dsh1/看恐怖片捂眼.webm",
+      "bytes": 1687954
+    },
+    {
+      "pack": "dsh1",
+      "name": "站着晃神打瞌睡",
+      "webm": "pets/dsh1/站着晃神打瞌睡.webm",
+      "bytes": 2078876
+    },
+    {
+      "pack": "dsh1",
+      "name": "系围裙",
+      "webm": "pets/dsh1/系围裙.webm",
+      "bytes": 1694429
+    },
+    {
+      "pack": "dsh1",
+      "name": "紧张搓手抖",
+      "webm": "pets/dsh1/紧张搓手抖.webm",
+      "bytes": 1750543
+    },
+    {
+      "pack": "dsh1",
+      "name": "织毛衣",
+      "webm": "pets/dsh1/织毛衣.webm",
+      "bytes": 1573501
+    },
+    {
+      "pack": "dsh1",
+      "name": "绸带舞",
+      "webm": "pets/dsh1/绸带舞.webm",
+      "bytes": 2166391
+    },
+    {
+      "pack": "dsh1",
+      "name": "缝扣子",
+      "webm": "pets/dsh1/缝扣子.webm",
+      "bytes": 3056160
+    },
+    {
+      "pack": "dsh1",
+      "name": "耍流星锤",
+      "webm": "pets/dsh1/耍流星锤.webm",
+      "bytes": 1975344
+    },
+    {
+      "pack": "dsh1",
+      "name": "脚麻了",
+      "webm": "pets/dsh1/脚麻了.webm",
+      "bytes": 2025948
+    },
+    {
+      "pack": "dsh1",
+      "name": "舔冰淇淋球",
+      "webm": "pets/dsh1/舔冰淇淋球.webm",
+      "bytes": 1936358
+    },
+    {
+      "pack": "dsh1",
+      "name": "舞狮",
+      "webm": "pets/dsh1/舞狮.webm",
+      "bytes": 1825089
+    },
+    {
+      "pack": "dsh1",
+      "name": "花艺师包花",
+      "webm": "pets/dsh1/花艺师包花.webm",
+      "bytes": 1994815
+    },
+    {
+      "pack": "dsh1",
+      "name": "蛋糕裱花",
+      "webm": "pets/dsh1/蛋糕裱花.webm",
+      "bytes": 1743197
+    },
+    {
+      "pack": "dsh1",
+      "name": "衣服标签刺痒",
+      "webm": "pets/dsh1/衣服标签刺痒.webm",
+      "bytes": 1986445
+    },
+    {
+      "pack": "dsh1",
+      "name": "袖口太长",
+      "webm": "pets/dsh1/袖口太长.webm",
+      "bytes": 2038180
+    },
+    {
+      "pack": "dsh1",
+      "name": "袜子破洞",
+      "webm": "pets/dsh1/袜子破洞.webm",
+      "bytes": 1878571
+    },
+    {
+      "pack": "dsh1",
+      "name": "被阳光晃眼",
+      "webm": "pets/dsh1/被阳光晃眼.webm",
+      "bytes": 1946147
+    },
+    {
+      "pack": "dsh1",
+      "name": "被雨淋",
+      "webm": "pets/dsh1/被雨淋.webm",
+      "bytes": 2155983
+    },
+    {
+      "pack": "dsh1",
+      "name": "被风吹跑帽子",
+      "webm": "pets/dsh1/被风吹跑帽子.webm",
+      "bytes": 2242759
+    },
+    {
+      "pack": "dsh1",
+      "name": "观星指认",
+      "webm": "pets/dsh1/观星指认.webm",
+      "bytes": 2006905
+    },
+    {
+      "pack": "dsh1",
+      "name": "警察开罚单",
+      "webm": "pets/dsh1/警察开罚单.webm",
+      "bytes": 1787770
+    },
+    {
+      "pack": "dsh1",
+      "name": "贴春联",
+      "webm": "pets/dsh1/贴春联.webm",
+      "bytes": 2086135
+    },
+    {
+      "pack": "dsh1",
+      "name": "跳绳-减肥",
+      "webm": "pets/dsh1/跳绳-减肥.webm",
+      "bytes": 5063215
+    },
+    {
+      "pack": "dsh1",
+      "name": "跳芭蕾",
+      "webm": "pets/dsh1/跳芭蕾.webm",
+      "bytes": 1861201
+    },
+    {
+      "pack": "dsh1",
+      "name": "跳街舞",
+      "webm": "pets/dsh1/跳街舞.webm",
+      "bytes": 1735331
+    },
+    {
+      "pack": "dsh1",
+      "name": "踢毽子",
+      "webm": "pets/dsh1/踢毽子.webm",
+      "bytes": 531015
+    },
+    {
+      "pack": "dsh1",
+      "name": "踢踏舞",
+      "webm": "pets/dsh1/踢踏舞.webm",
+      "bytes": 1825778
+    },
+    {
+      "pack": "dsh1",
+      "name": "踩到香蕉皮",
+      "webm": "pets/dsh1/踩到香蕉皮.webm",
+      "bytes": 2047512
+    },
+    {
+      "pack": "dsh1",
+      "name": "踩高跷",
+      "webm": "pets/dsh1/踩高跷.webm",
+      "bytes": 2123675
+    },
+    {
+      "pack": "dsh1",
+      "name": "踮脚换灯泡",
+      "webm": "pets/dsh1/踮脚换灯泡.webm",
+      "bytes": 1727614
+    },
+    {
+      "pack": "dsh1",
+      "name": "蹦迪-戴墨镜",
+      "webm": "pets/dsh1/蹦迪-戴墨镜.webm",
+      "bytes": 4426761
+    },
+    {
+      "pack": "dsh1",
+      "name": "转呼啦圈",
+      "webm": "pets/dsh1/转呼啦圈.webm",
+      "bytes": 2604100
+    },
+    {
+      "pack": "dsh1",
+      "name": "转魔方",
+      "webm": "pets/dsh1/转魔方.webm",
+      "bytes": 1836787
+    },
+    {
+      "pack": "dsh1",
+      "name": "递包裹",
+      "webm": "pets/dsh1/递包裹.webm",
+      "bytes": 1791612
+    },
+    {
+      "pack": "dsh1",
+      "name": "递药和水",
+      "webm": "pets/dsh1/递药和水.webm",
+      "bytes": 1846166
+    },
+    {
+      "pack": "dsh1",
+      "name": "逗狗",
+      "webm": "pets/dsh1/逗狗.webm",
+      "bytes": 2312570
+    },
+    {
+      "pack": "dsh1",
+      "name": "逗猫",
+      "webm": "pets/dsh1/逗猫.webm",
+      "bytes": 2275330
+    },
+    {
+      "pack": "dsh1",
+      "name": "逗蝴蝶",
+      "webm": "pets/dsh1/逗蝴蝶.webm",
+      "bytes": 2202325
+    },
+    {
+      "pack": "dsh1",
+      "name": "量体温",
+      "webm": "pets/dsh1/量体温.webm",
+      "bytes": 1911023
+    },
+    {
+      "pack": "dsh1",
+      "name": "钉钉子挂画",
+      "webm": "pets/dsh1/钉钉子挂画.webm",
+      "bytes": 1931338
+    },
+    {
+      "pack": "dsh1",
+      "name": "钓鱼",
+      "webm": "pets/dsh1/钓鱼.webm",
+      "bytes": 2045173
+    },
+    {
+      "pack": "dsh1",
+      "name": "铺床单",
+      "webm": "pets/dsh1/铺床单.webm",
+      "bytes": 1709828
+    },
+    {
+      "pack": "dsh1",
+      "name": "陶艺拉坯",
+      "webm": "pets/dsh1/陶艺拉坯.webm",
+      "bytes": 1646253
+    },
+    {
+      "pack": "dsh1",
+      "name": "雪克杯摇奶茶",
+      "webm": "pets/dsh1/雪克杯摇奶茶.webm",
+      "bytes": 1858709
+    },
+    {
+      "pack": "dsh1",
+      "name": "鞋带松了",
+      "webm": "pets/dsh1/鞋带松了.webm",
+      "bytes": 2123259
+    },
+    {
+      "pack": "dsh1",
+      "name": "风扇前啊啊叫",
+      "webm": "pets/dsh1/风扇前啊啊叫.webm",
+      "bytes": 2731866
+    },
+    {
+      "pack": "dsh1",
+      "name": "骑木马",
+      "webm": "pets/dsh1/骑木马.webm",
+      "bytes": 697580
+    },
+    {
+      "pack": "dsh1",
+      "name": "魔术师变出花",
+      "webm": "pets/dsh1/魔术师变出花.webm",
+      "bytes": 1902731
+    },
+    {
+      "pack": "dsh1",
+      "name": "走路",
+      "webm": "pets/dsh1/走路.webm",
+      "bytes": 1618983
+    },
+    {
+      "pack": "gpt",
+      "name": "OK手势",
+      "webm": "pets/gpt/OK手势.webm",
+      "bytes": 947139
+    },
+    {
+      "pack": "gpt",
+      "name": "上勾拳",
+      "webm": "pets/gpt/上勾拳.webm",
+      "bytes": 1531028
+    },
+    {
+      "pack": "gpt",
+      "name": "下劈手势",
+      "webm": "pets/gpt/下劈手势.webm",
+      "bytes": 1298284
+    },
+    {
+      "pack": "gpt",
+      "name": "下蹲站起",
+      "webm": "pets/gpt/下蹲站起.webm",
+      "bytes": 1056914
+    },
+    {
+      "pack": "gpt",
+      "name": "举重上挺",
+      "webm": "pets/gpt/举重上挺.webm",
+      "bytes": 1102511
+    },
+    {
+      "pack": "gpt",
+      "name": "仰卧起坐式起身",
+      "webm": "pets/gpt/仰卧起坐式起身.webm",
+      "bytes": 1445480
+    },
+    {
+      "pack": "gpt",
+      "name": "低头害羞",
+      "webm": "pets/gpt/低头害羞.webm",
+      "bytes": 1107817
+    },
+    {
+      "pack": "gpt",
+      "name": "体前屈",
+      "webm": "pets/gpt/体前屈.webm",
+      "bytes": 922931
+    },
+    {
+      "pack": "gpt",
+      "name": "侧弯腰拉伸",
+      "webm": "pets/gpt/侧弯腰拉伸.webm",
+      "bytes": 1280668
+    },
+    {
+      "pack": "gpt",
+      "name": "侧手翻定格",
+      "webm": "pets/gpt/侧手翻定格.webm",
+      "bytes": 1352510
+    },
+    {
+      "pack": "gpt",
+      "name": "侧踢",
+      "webm": "pets/gpt/侧踢.webm",
+      "bytes": 1179736
+    },
+    {
+      "pack": "gpt",
+      "name": "侧身后仰闪避",
+      "webm": "pets/gpt/侧身后仰闪避.webm",
+      "bytes": 1077477
+    },
+    {
+      "pack": "gpt",
+      "name": "兔子竖耳",
+      "webm": "pets/gpt/兔子竖耳.webm",
+      "bytes": 1260539
+    },
+    {
+      "pack": "gpt",
+      "name": "兴奋原地转",
+      "webm": "pets/gpt/兴奋原地转.webm",
+      "bytes": 1641101
+    },
+    {
+      "pack": "gpt",
+      "name": "写字哑剧",
+      "webm": "pets/gpt/写字哑剧.webm",
+      "bytes": 712229
+    },
+    {
+      "pack": "gpt",
+      "name": "击掌自拍",
+      "webm": "pets/gpt/击掌自拍.webm",
+      "bytes": 1284520
+    },
+    {
+      "pack": "gpt",
+      "name": "单膝跪地",
+      "webm": "pets/gpt/单膝跪地.webm",
+      "bytes": 1012916
+    },
+    {
+      "pack": "gpt",
+      "name": "原地小跳",
+      "webm": "pets/gpt/原地小跳.webm",
+      "bytes": 1173398
+    },
+    {
+      "pack": "gpt",
+      "name": "原地踏步",
+      "webm": "pets/gpt/原地踏步.webm",
+      "bytes": 1625646
+    },
+    {
+      "pack": "gpt",
+      "name": "双手上举摇摆",
+      "webm": "pets/gpt/双手上举摇摆.webm",
+      "bytes": 1342878
+    },
+    {
+      "pack": "gpt",
+      "name": "双手叉腰",
+      "webm": "pets/gpt/双手叉腰.webm",
+      "bytes": 960460
+    },
+    {
+      "pack": "gpt",
+      "name": "双手合十祈祷",
+      "webm": "pets/gpt/双手合十祈祷.webm",
+      "bytes": 703117
+    },
+    {
+      "pack": "gpt",
+      "name": "双手抚胸礼",
+      "webm": "pets/gpt/双手抚胸礼.webm",
+      "bytes": 1137214
+    },
+    {
+      "pack": "gpt",
+      "name": "双手摊开无奈",
+      "webm": "pets/gpt/双手摊开无奈.webm",
+      "bytes": 903000
+    },
+    {
+      "pack": "gpt",
+      "name": "变身亮相",
+      "webm": "pets/gpt/变身亮相.webm",
+      "bytes": 952581
+    },
+    {
+      "pack": "gpt",
+      "name": "召唤姿势",
+      "webm": "pets/gpt/召唤姿势.webm",
+      "bytes": 882728
+    },
+    {
+      "pack": "gpt",
+      "name": "可爱三连姿势",
+      "webm": "pets/gpt/可爱三连姿势.webm",
+      "bytes": 1136497
+    },
+    {
+      "pack": "gpt",
+      "name": "后退一步再上前",
+      "webm": "pets/gpt/后退一步再上前.webm",
+      "bytes": 856051
+    },
+    {
+      "pack": "gpt",
+      "name": "吐舌做鬼脸",
+      "webm": "pets/gpt/吐舌做鬼脸.webm",
+      "bytes": 755188
+    },
+    {
+      "pack": "gpt",
+      "name": "吹奏长笛",
+      "webm": "pets/gpt/吹奏长笛.webm",
+      "bytes": 1461188
+    },
+    {
+      "pack": "gpt",
+      "name": "呆毛情绪弹动",
+      "webm": "pets/gpt/呆毛情绪弹动.webm",
+      "bytes": 476249
+    },
+    {
+      "pack": "gpt",
+      "name": "咬手指思索",
+      "webm": "pets/gpt/咬手指思索.webm",
+      "bytes": 777416
+    },
+    {
+      "pack": "gpt",
+      "name": "响指节奏",
+      "webm": "pets/gpt/响指节奏.webm",
+      "bytes": 1272996
+    },
+    {
+      "pack": "gpt",
+      "name": "哭泣",
+      "webm": "pets/gpt/哭泣.webm",
+      "bytes": 1236850
+    },
+    {
+      "pack": "gpt",
+      "name": "回旋踢",
+      "webm": "pets/gpt/回旋踢.webm",
+      "bytes": 1547883
+    },
+    {
+      "pack": "gpt",
+      "name": "困倦揉眼",
+      "webm": "pets/gpt/困倦揉眼.webm",
+      "bytes": 1235509
+    },
+    {
+      "pack": "gpt",
+      "name": "坚决点头",
+      "webm": "pets/gpt/坚决点头.webm",
+      "bytes": 1066244
+    },
+    {
+      "pack": "gpt",
+      "name": "大笑",
+      "webm": "pets/gpt/大笑.webm",
+      "bytes": 807511
+    },
+    {
+      "pack": "gpt",
+      "name": "头发无风自动",
+      "webm": "pets/gpt/头发无风自动.webm",
+      "bytes": 1557010
+    },
+    {
+      "pack": "gpt",
+      "name": "委屈撇嘴",
+      "webm": "pets/gpt/委屈撇嘴.webm",
+      "bytes": 996621
+    },
+    {
+      "pack": "gpt",
+      "name": "委屈赌气",
+      "webm": "pets/gpt/委屈赌气.webm",
+      "bytes": 935672
+    },
+    {
+      "pack": "gpt",
+      "name": "嫉妒斜睨",
+      "webm": "pets/gpt/嫉妒斜睨.webm",
+      "bytes": 911196
+    },
+    {
+      "pack": "gpt",
+      "name": "害怕发抖",
+      "webm": "pets/gpt/害怕发抖.webm",
+      "bytes": 954079
+    },
+    {
+      "pack": "gpt",
+      "name": "害羞捂脸",
+      "webm": "pets/gpt/害羞捂脸.webm",
+      "bytes": 1072658
+    },
+    {
+      "pack": "gpt",
+      "name": "小兔蹦跳",
+      "webm": "pets/gpt/小兔蹦跳.webm",
+      "bytes": 1393907
+    },
+    {
+      "pack": "gpt",
+      "name": "小熊挥掌",
+      "webm": "pets/gpt/小熊挥掌.webm",
+      "bytes": 1188492
+    },
+    {
+      "pack": "gpt",
+      "name": "小鸟啄食",
+      "webm": "pets/gpt/小鸟啄食.webm",
+      "bytes": 1420236
+    },
+    {
+      "pack": "gpt",
+      "name": "小鸟展翅",
+      "webm": "pets/gpt/小鸟展翅.webm",
+      "bytes": 1465110
+    },
+    {
+      "pack": "gpt",
+      "name": "小鹿受惊",
+      "webm": "pets/gpt/小鹿受惊.webm",
+      "bytes": 720502
+    },
+    {
+      "pack": "gpt",
+      "name": "尴尬赔笑",
+      "webm": "pets/gpt/尴尬赔笑.webm",
+      "bytes": 1261847
+    },
+    {
+      "pack": "gpt",
+      "name": "尾巴共舞",
+      "webm": "pets/gpt/尾巴共舞.webm",
+      "bytes": 1522260
+    },
+    {
+      "pack": "gpt",
+      "name": "尾巴卷住自己",
+      "webm": "pets/gpt/尾巴卷住自己.webm",
+      "bytes": 843342
+    },
+    {
+      "pack": "gpt",
+      "name": "尾巴大幅摆动",
+      "webm": "pets/gpt/尾巴大幅摆动.webm",
+      "bytes": 1297715
+    },
+    {
+      "pack": "gpt",
+      "name": "尾巴拍打地面",
+      "webm": "pets/gpt/尾巴拍打地面.webm",
+      "bytes": 1081275
+    },
+    {
+      "pack": "gpt",
+      "name": "尾巴竖立探测",
+      "webm": "pets/gpt/尾巴竖立探测.webm",
+      "bytes": 1235229
+    },
+    {
+      "pack": "gpt",
+      "name": "屈膝侧礼",
+      "webm": "pets/gpt/屈膝侧礼.webm",
+      "bytes": 1005479
+    },
+    {
+      "pack": "gpt",
+      "name": "左右张望",
+      "webm": "pets/gpt/左右张望.webm",
+      "bytes": 951914
+    },
+    {
+      "pack": "gpt",
+      "name": "平板支撑预备",
+      "webm": "pets/gpt/平板支撑预备.webm",
+      "bytes": 1075250
+    },
+    {
+      "pack": "gpt",
+      "name": "开合跳升级版",
+      "webm": "pets/gpt/开合跳升级版.webm",
+      "bytes": 1628813
+    },
+    {
+      "pack": "gpt",
+      "name": "开心蹦跳",
+      "webm": "pets/gpt/开心蹦跳.webm",
+      "bytes": 1584282
+    },
+    {
+      "pack": "gpt",
+      "name": "弓步下压",
+      "webm": "pets/gpt/弓步下压.webm",
+      "bytes": 1386795
+    },
+    {
+      "pack": "gpt",
+      "name": "弹奏钢琴",
+      "webm": "pets/gpt/弹奏钢琴.webm",
+      "bytes": 1160125
+    },
+    {
+      "pack": "gpt",
+      "name": "待机伸懒腰",
+      "webm": "pets/gpt/待机伸懒腰.webm",
+      "bytes": 1286151
+    },
+    {
+      "pack": "gpt",
+      "name": "待机发丝飘落",
+      "webm": "pets/gpt/待机发丝飘落.webm",
+      "bytes": 971806
+    },
+    {
+      "pack": "gpt",
+      "name": "待机吞口水",
+      "webm": "pets/gpt/待机吞口水.webm",
+      "bytes": 857351
+    },
+    {
+      "pack": "gpt",
+      "name": "待机呆毛摆动",
+      "webm": "pets/gpt/待机呆毛摆动.webm",
+      "bytes": 775987
+    },
+    {
+      "pack": "gpt",
+      "name": "待机呼吸起伏",
+      "webm": "pets/gpt/待机呼吸起伏.webm",
+      "bytes": 1021246
+    },
+    {
+      "pack": "gpt",
+      "name": "待机尾巴轻甩",
+      "webm": "pets/gpt/待机尾巴轻甩.webm",
+      "bytes": 886947
+    },
+    {
+      "pack": "gpt",
+      "name": "待机微晃重心",
+      "webm": "pets/gpt/待机微晃重心.webm",
+      "bytes": 855280
+    },
+    {
+      "pack": "gpt",
+      "name": "待机打哈欠",
+      "webm": "pets/gpt/待机打哈欠.webm",
+      "bytes": 865404
+    },
+    {
+      "pack": "gpt",
+      "name": "待机气息悬停",
+      "webm": "pets/gpt/待机气息悬停.webm",
+      "bytes": 559181
+    },
+    {
+      "pack": "gpt",
+      "name": "待机深呼吸",
+      "webm": "pets/gpt/待机深呼吸.webm",
+      "bytes": 787234
+    },
+    {
+      "pack": "gpt",
+      "name": "待机眨眼凝视",
+      "webm": "pets/gpt/待机眨眼凝视.webm",
+      "bytes": 635801
+    },
+    {
+      "pack": "gpt",
+      "name": "待机瞌睡点头",
+      "webm": "pets/gpt/待机瞌睡点头.webm",
+      "bytes": 802918
+    },
+    {
+      "pack": "gpt",
+      "name": "待机耳朵抽动",
+      "webm": "pets/gpt/待机耳朵抽动.webm",
+      "bytes": 682845
+    },
+    {
+      "pack": "gpt",
+      "name": "待机裙摆整理",
+      "webm": "pets/gpt/待机裙摆整理.webm",
+      "bytes": 977596
+    },
+    {
+      "pack": "gpt",
+      "name": "得意叉腰仰头",
+      "webm": "pets/gpt/得意叉腰仰头.webm",
+      "bytes": 1039307
+    },
+    {
+      "pack": "gpt",
+      "name": "得意炫耀",
+      "webm": "pets/gpt/得意炫耀.webm",
+      "bytes": 1182983
+    },
+    {
+      "pack": "gpt",
+      "name": "悬浮微漂",
+      "webm": "pets/gpt/悬浮微漂.webm",
+      "bytes": 1182661
+    },
+    {
+      "pack": "gpt",
+      "name": "惊吓后缩",
+      "webm": "pets/gpt/惊吓后缩.webm",
+      "bytes": 783508
+    },
+    {
+      "pack": "gpt",
+      "name": "惊讶瞪眼",
+      "webm": "pets/gpt/惊讶瞪眼.webm",
+      "bytes": 1055978
+    },
+    {
+      "pack": "gpt",
+      "name": "感动落泪",
+      "webm": "pets/gpt/感动落泪.webm",
+      "bytes": 1105963
+    },
+    {
+      "pack": "gpt",
+      "name": "感激鞠躬",
+      "webm": "pets/gpt/感激鞠躬.webm",
+      "bytes": 1242694
+    },
+    {
+      "pack": "gpt",
+      "name": "慌张摆手",
+      "webm": "pets/gpt/慌张摆手.webm",
+      "bytes": 975974
+    },
+    {
+      "pack": "gpt",
+      "name": "慢动作挥手舞",
+      "webm": "pets/gpt/慢动作挥手舞.webm",
+      "bytes": 1427700
+    },
+    {
+      "pack": "gpt",
+      "name": "手指计数",
+      "webm": "pets/gpt/手指计数.webm",
+      "bytes": 717685
+    },
+    {
+      "pack": "gpt",
+      "name": "手腕脚踝绕环",
+      "webm": "pets/gpt/手腕脚踝绕环.webm",
+      "bytes": 1522478
+    },
+    {
+      "pack": "gpt",
+      "name": "打字哑剧",
+      "webm": "pets/gpt/打字哑剧.webm",
+      "bytes": 1027807
+    },
+    {
+      "pack": "gpt",
+      "name": "打气呐喊",
+      "webm": "pets/gpt/打气呐喊.webm",
+      "bytes": 1420155
+    },
+    {
+      "pack": "gpt",
+      "name": "打鼓节拍",
+      "webm": "pets/gpt/打鼓节拍.webm",
+      "bytes": 1645565
+    },
+    {
+      "pack": "gpt",
+      "name": "扫地动作",
+      "webm": "pets/gpt/扫地动作.webm",
+      "bytes": 1378238
+    },
+    {
+      "pack": "gpt",
+      "name": "扭腰",
+      "webm": "pets/gpt/扭腰.webm",
+      "bytes": 1342458
+    },
+    {
+      "pack": "gpt",
+      "name": "扶额无语",
+      "webm": "pets/gpt/扶额无语.webm",
+      "bytes": 1092024
+    },
+    {
+      "pack": "gpt",
+      "name": "投篮出手",
+      "webm": "pets/gpt/投篮出手.webm",
+      "bytes": 1058011
+    },
+    {
+      "pack": "gpt",
+      "name": "抖手甩指",
+      "webm": "pets/gpt/抖手甩指.webm",
+      "bytes": 1215201
+    },
+    {
+      "pack": "gpt",
+      "name": "抖肩",
+      "webm": "pets/gpt/抖肩.webm",
+      "bytes": 871747
+    },
+    {
+      "pack": "gpt",
+      "name": "折叠衣物",
+      "webm": "pets/gpt/折叠衣物.webm",
+      "bytes": 1198199
+    },
+    {
+      "pack": "gpt",
+      "name": "抛接杂耍",
+      "webm": "pets/gpt/抛接杂耍.webm",
+      "bytes": 1226641
+    },
+    {
+      "pack": "gpt",
+      "name": "抛接空手",
+      "webm": "pets/gpt/抛接空手.webm",
+      "bytes": 1003758
+    },
+    {
+      "pack": "gpt",
+      "name": "抬头望天",
+      "webm": "pets/gpt/抬头望天.webm",
+      "bytes": 784279
+    },
+    {
+      "pack": "gpt",
+      "name": "抱臂",
+      "webm": "pets/gpt/抱臂.webm",
+      "bytes": 816921
+    },
+    {
+      "pack": "gpt",
+      "name": "拉伸大腿后侧",
+      "webm": "pets/gpt/拉伸大腿后侧.webm",
+      "bytes": 1311661
+    },
+    {
+      "pack": "gpt",
+      "name": "拉小提琴",
+      "webm": "pets/gpt/拉小提琴.webm",
+      "bytes": 1609163
+    },
+    {
+      "pack": "gpt",
+      "name": "拉弓射箭",
+      "webm": "pets/gpt/拉弓射箭.webm",
+      "bytes": 991358
+    },
+    {
+      "pack": "gpt",
+      "name": "拉拉链",
+      "webm": "pets/gpt/拉拉链.webm",
+      "bytes": 1128852
+    },
+    {
+      "pack": "gpt",
+      "name": "拍照取景",
+      "webm": "pets/gpt/拍照取景.webm",
+      "bytes": 1238014
+    },
+    {
+      "pack": "gpt",
+      "name": "拍腿节拍",
+      "webm": "pets/gpt/拍腿节拍.webm",
+      "bytes": 1402749
+    },
+    {
+      "pack": "gpt",
+      "name": "招手过来",
+      "webm": "pets/gpt/招手过来.webm",
+      "bytes": 827979
+    },
+    {
+      "pack": "gpt",
+      "name": "拧瓶盖",
+      "webm": "pets/gpt/拧瓶盖.webm",
+      "bytes": 1168056
+    },
+    {
+      "pack": "gpt",
+      "name": "挥手单手",
+      "webm": "pets/gpt/挥手单手.webm",
+      "bytes": 1192668
+    },
+    {
+      "pack": "gpt",
+      "name": "挥手双手",
+      "webm": "pets/gpt/挥手双手.webm",
+      "bytes": 1063660
+    },
+    {
+      "pack": "gpt",
+      "name": "挥手告别三连",
+      "webm": "pets/gpt/挥手告别三连.webm",
+      "bytes": 1108424
+    },
+    {
+      "pack": "gpt",
+      "name": "挥拍击球",
+      "webm": "pets/gpt/挥拍击球.webm",
+      "bytes": 1447030
+    },
+    {
+      "pack": "gpt",
+      "name": "挥棒击球",
+      "webm": "pets/gpt/挥棒击球.webm",
+      "bytes": 1105514
+    },
+    {
+      "pack": "gpt",
+      "name": "挺肚子收缩",
+      "webm": "pets/gpt/挺肚子收缩.webm",
+      "bytes": 638483
+    },
+    {
+      "pack": "gpt",
+      "name": "提篮行走原地",
+      "webm": "pets/gpt/提篮行走原地.webm",
+      "bytes": 1708902
+    },
+    {
+      "pack": "gpt",
+      "name": "握拳打气",
+      "webm": "pets/gpt/握拳打气.webm",
+      "bytes": 974918
+    },
+    {
+      "pack": "gpt",
+      "name": "握麦克风演唱",
+      "webm": "pets/gpt/握麦克风演唱.webm",
+      "bytes": 1344306
+    },
+    {
+      "pack": "gpt",
+      "name": "摇头否定",
+      "webm": "pets/gpt/摇头否定.webm",
+      "bytes": 1462992
+    },
+    {
+      "pack": "gpt",
+      "name": "摇摆骨盆",
+      "webm": "pets/gpt/摇摆骨盆.webm",
+      "bytes": 1570208
+    },
+    {
+      "pack": "gpt",
+      "name": "撑伞姿势",
+      "webm": "pets/gpt/撑伞姿势.webm",
+      "bytes": 950739
+    },
+    {
+      "pack": "gpt",
+      "name": "撩剑上挑",
+      "webm": "pets/gpt/撩剑上挑.webm",
+      "bytes": 1422668
+    },
+    {
+      "pack": "gpt",
+      "name": "擦拭玻璃",
+      "webm": "pets/gpt/擦拭玻璃.webm",
+      "bytes": 1738992
+    },
+    {
+      "pack": "gpt",
+      "name": "收尾谢幕",
+      "webm": "pets/gpt/收尾谢幕.webm",
+      "bytes": 953814
+    },
+    {
+      "pack": "gpt",
+      "name": "施法手势",
+      "webm": "pets/gpt/施法手势.webm",
+      "bytes": 983171
+    },
+    {
+      "pack": "gpt",
+      "name": "无聊打哈欠伸腰",
+      "webm": "pets/gpt/无聊打哈欠伸腰.webm",
+      "bytes": 1332996
+    },
+    {
+      "pack": "gpt",
+      "name": "无语叹气",
+      "webm": "pets/gpt/无语叹气.webm",
+      "bytes": 1157254
+    },
+    {
+      "pack": "gpt",
+      "name": "机械舞定点",
+      "webm": "pets/gpt/机械舞定点.webm",
+      "bytes": 825267
+    },
+    {
+      "pack": "gpt",
+      "name": "格挡架开",
+      "webm": "pets/gpt/格挡架开.webm",
+      "bytes": 1031967
+    },
+    {
+      "pack": "gpt",
+      "name": "格斗起手式",
+      "webm": "pets/gpt/格斗起手式.webm",
+      "bytes": 1177013
+    },
+    {
+      "pack": "gpt",
+      "name": "梳头编发",
+      "webm": "pets/gpt/梳头编发.webm",
+      "bytes": 1503098
+    },
+    {
+      "pack": "gpt",
+      "name": "横扫格开",
+      "webm": "pets/gpt/横扫格开.webm",
+      "bytes": 1343362
+    },
+    {
+      "pack": "gpt",
+      "name": "歪头好奇",
+      "webm": "pets/gpt/歪头好奇.webm",
+      "bytes": 923522
+    },
+    {
+      "pack": "gpt",
+      "name": "比心单手",
+      "webm": "pets/gpt/比心单手.webm",
+      "bytes": 932130
+    },
+    {
+      "pack": "gpt",
+      "name": "比心双手头顶v2",
+      "webm": "pets/gpt/比心双手头顶v2.webm",
+      "bytes": 869904
+    },
+    {
+      "pack": "gpt",
+      "name": "沮丧垂头v2",
+      "webm": "pets/gpt/沮丧垂头v2.webm",
+      "bytes": 907597
+    },
+    {
+      "pack": "gpt",
+      "name": "治愈之光",
+      "webm": "pets/gpt/治愈之光.webm",
+      "bytes": 818634
+    },
+    {
+      "pack": "gpt",
+      "name": "波浪手",
+      "webm": "pets/gpt/波浪手.webm",
+      "bytes": 1634422
+    },
+    {
+      "pack": "gpt",
+      "name": "波浪转身",
+      "webm": "pets/gpt/波浪转身.webm",
+      "bytes": 1607034
+    },
+    {
+      "pack": "gpt",
+      "name": "深蹲两次",
+      "webm": "pets/gpt/深蹲两次.webm",
+      "bytes": 1026091
+    },
+    {
+      "pack": "gpt",
+      "name": "深蹲跳",
+      "webm": "pets/gpt/深蹲跳.webm",
+      "bytes": 1334282
+    },
+    {
+      "pack": "gpt",
+      "name": "温柔注视",
+      "webm": "pets/gpt/温柔注视.webm",
+      "bytes": 863986
+    },
+    {
+      "pack": "gpt",
+      "name": "点头肯定",
+      "webm": "pets/gpt/点头肯定.webm",
+      "bytes": 783045
+    },
+    {
+      "pack": "gpt",
+      "name": "焦虑踱步",
+      "webm": "pets/gpt/焦虑踱步.webm",
+      "bytes": 1600974
+    },
+    {
+      "pack": "gpt",
+      "name": "燕式平衡",
+      "webm": "pets/gpt/燕式平衡.webm",
+      "bytes": 1514692
+    },
+    {
+      "pack": "gpt",
+      "name": "犹豫退缩",
+      "webm": "pets/gpt/犹豫退缩.webm",
+      "bytes": 1418795
+    },
+    {
+      "pack": "gpt",
+      "name": "狂喜跃起",
+      "webm": "pets/gpt/狂喜跃起.webm",
+      "bytes": 1618772
+    },
+    {
+      "pack": "gpt",
+      "name": "猫伸懒腰",
+      "webm": "pets/gpt/猫伸懒腰.webm",
+      "bytes": 1380641
+    },
+    {
+      "pack": "gpt",
+      "name": "猫咪蜷卧起身",
+      "webm": "pets/gpt/猫咪蜷卧起身.webm",
+      "bytes": 1235115
+    },
+    {
+      "pack": "gpt",
+      "name": "猫洗脸",
+      "webm": "pets/gpt/猫洗脸.webm",
+      "bytes": 1414742
+    },
+    {
+      "pack": "gpt",
+      "name": "生气鼓腮",
+      "webm": "pets/gpt/生气鼓腮.webm",
+      "bytes": 923104
+    },
+    {
+      "pack": "gpt",
+      "name": "甩臂放松",
+      "webm": "pets/gpt/甩臂放松.webm",
+      "bytes": 1696427
+    },
+    {
+      "pack": "gpt",
+      "name": "疑惑挠头",
+      "webm": "pets/gpt/疑惑挠头.webm",
+      "bytes": 1176425
+    },
+    {
+      "pack": "gpt",
+      "name": "直拳连击",
+      "webm": "pets/gpt/直拳连击.webm",
+      "bytes": 1314291
+    },
+    {
+      "pack": "gpt",
+      "name": "盾牌护体",
+      "webm": "pets/gpt/盾牌护体.webm",
+      "bytes": 981383
+    },
+    {
+      "pack": "gpt",
+      "name": "突刺手势",
+      "webm": "pets/gpt/突刺手势.webm",
+      "bytes": 1027489
+    },
+    {
+      "pack": "gpt",
+      "name": "竖大拇指",
+      "webm": "pets/gpt/竖大拇指.webm",
+      "bytes": 854790
+    },
+    {
+      "pack": "gpt",
+      "name": "端杯饮用",
+      "webm": "pets/gpt/端杯饮用.webm",
+      "bytes": 1212287
+    },
+    {
+      "pack": "gpt",
+      "name": "系鞋带",
+      "webm": "pets/gpt/系鞋带.webm",
+      "bytes": 1078549
+    },
+    {
+      "pack": "gpt",
+      "name": "缝纫穿针",
+      "webm": "pets/gpt/缝纫穿针.webm",
+      "bytes": 1082900
+    },
+    {
+      "pack": "gpt",
+      "name": "翅膀状裙摆张开",
+      "webm": "pets/gpt/翅膀状裙摆张开.webm",
+      "bytes": 1245444
+    },
+    {
+      "pack": "gpt",
+      "name": "翻阅书册",
+      "webm": "pets/gpt/翻阅书册.webm",
+      "bytes": 839144
+    },
+    {
+      "pack": "gpt",
+      "name": "胜利收势",
+      "webm": "pets/gpt/胜利收势.webm",
+      "bytes": 1018409
+    },
+    {
+      "pack": "gpt",
+      "name": "节奏点头踏脚",
+      "webm": "pets/gpt/节奏点头踏脚.webm",
+      "bytes": 1523293
+    },
+    {
+      "pack": "gpt",
+      "name": "节奏耸肩",
+      "webm": "pets/gpt/节奏耸肩.webm",
+      "bytes": 1065189
+    },
+    {
+      "pack": "gpt",
+      "name": "落地单膝跪",
+      "webm": "pets/gpt/落地单膝跪.webm",
+      "bytes": 885164
+    },
+    {
+      "pack": "gpt",
+      "name": "螃蟹横行",
+      "webm": "pets/gpt/螃蟹横行.webm",
+      "bytes": 1909564
+    },
+    {
+      "pack": "gpt",
+      "name": "装睡偷看",
+      "webm": "pets/gpt/装睡偷看.webm",
+      "bytes": 838737
+    },
+    {
+      "pack": "gpt",
+      "name": "裙摆旋开静止",
+      "webm": "pets/gpt/裙摆旋开静止.webm",
+      "bytes": 1328534
+    },
+    {
+      "pack": "gpt",
+      "name": "谢幕转身离去",
+      "webm": "pets/gpt/谢幕转身离去.webm",
+      "bytes": 998931
+    },
+    {
+      "pack": "gpt",
+      "name": "跺脚节拍",
+      "webm": "pets/gpt/跺脚节拍.webm",
+      "bytes": 1356958
+    },
+    {
+      "pack": "gpt",
+      "name": "踢腿前踢",
+      "webm": "pets/gpt/踢腿前踢.webm",
+      "bytes": 1165063
+    },
+    {
+      "pack": "gpt",
+      "name": "踢踏碎步",
+      "webm": "pets/gpt/踢踏碎步.webm",
+      "bytes": 1477038
+    },
+    {
+      "pack": "gpt",
+      "name": "踮脚伸展",
+      "webm": "pets/gpt/踮脚伸展.webm",
+      "bytes": 1155797
+    },
+    {
+      "pack": "gpt",
+      "name": "转体一周",
+      "webm": "pets/gpt/转体一周.webm",
+      "bytes": 1231906
+    },
+    {
+      "pack": "gpt",
+      "name": "转肩热身",
+      "webm": "pets/gpt/转肩热身.webm",
+      "bytes": 1279837
+    },
+    {
+      "pack": "gpt",
+      "name": "连击收势",
+      "webm": "pets/gpt/连击收势.webm",
+      "bytes": 1318420
+    },
+    {
+      "pack": "gpt",
+      "name": "遮眼偷看",
+      "webm": "pets/gpt/遮眼偷看.webm",
+      "bytes": 589864
+    },
+    {
+      "pack": "gpt",
+      "name": "长发披散甩落",
+      "webm": "pets/gpt/长发披散甩落.webm",
+      "bytes": 1236929
+    },
+    {
+      "pack": "gpt",
+      "name": "震惊僵住",
+      "webm": "pets/gpt/震惊僵住.webm",
+      "bytes": 693861
+    },
+    {
+      "pack": "gpt",
+      "name": "鞠躬轻",
+      "webm": "pets/gpt/鞠躬轻.webm",
+      "bytes": 931877
+    },
+    {
+      "pack": "gpt",
+      "name": "鞠躬重",
+      "webm": "pets/gpt/鞠躬重.webm",
+      "bytes": 811055
+    },
+    {
+      "pack": "gpt",
+      "name": "飞吻",
+      "webm": "pets/gpt/飞吻.webm",
+      "bytes": 927566
+    },
+    {
+      "pack": "gpt",
+      "name": "骄傲昂首",
+      "webm": "pets/gpt/骄傲昂首.webm",
+      "bytes": 1121938
+    },
+    {
+      "pack": "gpt",
+      "name": "高抬腿冲刺",
+      "webm": "pets/gpt/高抬腿冲刺.webm",
+      "bytes": 1475496
+    },
+    {
+      "pack": "gpt",
+      "name": "鱼儿摆尾",
+      "webm": "pets/gpt/鱼儿摆尾.webm",
+      "bytes": 1781053
+    },
+    {
+      "pack": "gpt",
+      "name": "鳍饰展平",
+      "webm": "pets/gpt/鳍饰展平.webm",
+      "bytes": 842890
+    },
+    {
+      "pack": "gpt",
+      "name": "鹤立单腿",
+      "webm": "pets/gpt/鹤立单腿.webm",
+      "bytes": 936473
+    },
+    {
+      "pack": "gpt",
+      "name": "鼓掌",
+      "webm": "pets/gpt/鼓掌.webm",
+      "bytes": 926446
+    },
+    {
+      "pack": "gpt",
+      "name": "龙吟无声",
+      "webm": "pets/gpt/龙吟无声.webm",
+      "bytes": 854877
+    },
+    {
+      "pack": "gpt",
+      "name": "龙威凝视",
+      "webm": "pets/gpt/龙威凝视.webm",
+      "bytes": 644512
+    },
+    {
+      "pack": "gpt",
+      "name": "龙角互蹭",
+      "webm": "pets/gpt/龙角互蹭.webm",
+      "bytes": 992034
+    },
+    {
+      "pack": "gpt",
+      "name": "龙角微光脉动",
+      "webm": "pets/gpt/龙角微光脉动.webm",
+      "bytes": 482547
+    },
+    {
+      "pack": "gpt1",
+      "name": "三球抛接",
+      "webm": "pets/gpt1/三球抛接.webm",
+      "bytes": 1639703
+    },
+    {
+      "pack": "gpt1",
+      "name": "下五子棋",
+      "webm": "pets/gpt1/下五子棋.webm",
+      "bytes": 1684278
+    },
+    {
+      "pack": "gpt1",
+      "name": "东张西望",
+      "webm": "pets/gpt1/东张西望.webm",
+      "bytes": 1752350
+    },
+    {
+      "pack": "gpt1",
+      "name": "中秋赏月吃月饼",
+      "webm": "pets/gpt1/中秋赏月吃月饼.webm",
+      "bytes": 1782998
+    },
+    {
+      "pack": "gpt1",
+      "name": "优雅提裙旋舞",
+      "webm": "pets/gpt1/优雅提裙旋舞.webm",
+      "bytes": 1737630
+    },
+    {
+      "pack": "gpt1",
+      "name": "偷吃零食被抓住",
+      "webm": "pets/gpt1/偷吃零食被抓住.webm",
+      "bytes": 1496066
+    },
+    {
+      "pack": "gpt1",
+      "name": "傲娇生气",
+      "webm": "pets/gpt1/傲娇生气.webm",
+      "bytes": 1520075
+    },
+    {
+      "pack": "gpt1",
+      "name": "元气挥手",
+      "webm": "pets/gpt1/元气挥手.webm",
+      "bytes": 1557424
+    },
+    {
+      "pack": "gpt1",
+      "name": "写代码",
+      "webm": "pets/gpt1/写代码.webm",
+      "bytes": 1429251
+    },
+    {
+      "pack": "gpt1",
+      "name": "写吉祥纹",
+      "webm": "pets/gpt1/写吉祥纹.webm",
+      "bytes": 1881222
+    },
+    {
+      "pack": "gpt1",
+      "name": "凭空生花",
+      "webm": "pets/gpt1/凭空生花.webm",
+      "bytes": 1792570
+    },
+    {
+      "pack": "gpt1",
+      "name": "分文不剩",
+      "webm": "pets/gpt1/分文不剩.webm",
+      "bytes": 1871898
+    },
+    {
+      "pack": "gpt1",
+      "name": "动物环绕",
+      "webm": "pets/gpt1/动物环绕.webm",
+      "bytes": 1722938
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地专心玩魔方",
+      "webm": "pets/gpt1/原地专心玩魔方.webm",
+      "bytes": 1380127
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地小憩沉眠",
+      "webm": "pets/gpt1/原地小憩沉眠.webm",
+      "bytes": 1417497
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地左转奔跑",
+      "webm": "pets/gpt1/原地左转奔跑.webm",
+      "bytes": 1974093
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地敲击桌面互动",
+      "webm": "pets/gpt1/原地敲击桌面互动.webm",
+      "bytes": 1484124
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地漂浮踏步",
+      "webm": "pets/gpt1/原地漂浮踏步.webm",
+      "bytes": 1652328
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地跳跃抓碎头顶物品",
+      "webm": "pets/gpt1/原地跳跃抓碎头顶物品.webm",
+      "bytes": 851587
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地踱步张望",
+      "webm": "pets/gpt1/原地踱步张望.webm",
+      "bytes": 1486986
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地蹲下玩玩具汽车",
+      "webm": "pets/gpt1/原地蹲下玩玩具汽车.webm",
+      "bytes": 1702403
+    },
+    {
+      "pack": "gpt1",
+      "name": "原地重力下蹲压缩",
+      "webm": "pets/gpt1/原地重力下蹲压缩.webm",
+      "bytes": 1317588
+    },
+    {
+      "pack": "gpt1",
+      "name": "发呆碎碎念",
+      "webm": "pets/gpt1/发呆碎碎念.webm",
+      "bytes": 1764348
+    },
+    {
+      "pack": "gpt1",
+      "name": "变鸽子",
+      "webm": "pets/gpt1/变鸽子.webm",
+      "bytes": 1694575
+    },
+    {
+      "pack": "gpt1",
+      "name": "可爱宅舞",
+      "webm": "pets/gpt1/可爱宅舞.webm",
+      "bytes": 2083018
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃Token",
+      "webm": "pets/gpt1/吃Token.webm",
+      "bytes": 1700590
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃冰淇淋融化",
+      "webm": "pets/gpt1/吃冰淇淋融化.webm",
+      "bytes": 1883487
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃午餐",
+      "webm": "pets/gpt1/吃午餐.webm",
+      "bytes": 1735599
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃大闸蟹",
+      "webm": "pets/gpt1/吃大闸蟹.webm",
+      "bytes": 1544004
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃年糕",
+      "webm": "pets/gpt1/吃年糕.webm",
+      "bytes": 1691450
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃早餐",
+      "webm": "pets/gpt1/吃早餐.webm",
+      "bytes": 1762823
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃晚餐",
+      "webm": "pets/gpt1/吃晚餐.webm",
+      "bytes": 1892845
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃汤圆",
+      "webm": "pets/gpt1/吃汤圆.webm",
+      "bytes": 1590657
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃白饭",
+      "webm": "pets/gpt1/吃白饭.webm",
+      "bytes": 2049003
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃粽子",
+      "webm": "pets/gpt1/吃粽子.webm",
+      "bytes": 1593826
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃腊八粥",
+      "webm": "pets/gpt1/吃腊八粥.webm",
+      "bytes": 1690656
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃西瓜",
+      "webm": "pets/gpt1/吃西瓜.webm",
+      "bytes": 1745945
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃重阳糕",
+      "webm": "pets/gpt1/吃重阳糕.webm",
+      "bytes": 1728342
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃长寿面",
+      "webm": "pets/gpt1/吃长寿面.webm",
+      "bytes": 1595255
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃青团",
+      "webm": "pets/gpt1/吃青团.webm",
+      "bytes": 1751027
+    },
+    {
+      "pack": "gpt1",
+      "name": "吃饺子",
+      "webm": "pets/gpt1/吃饺子.webm",
+      "bytes": 1645326
+    },
+    {
+      "pack": "gpt1",
+      "name": "吹气球",
+      "webm": "pets/gpt1/吹气球.webm",
+      "bytes": 1651447
+    },
+    {
+      "pack": "gpt1",
+      "name": "吹笛子",
+      "webm": "pets/gpt1/吹笛子.webm",
+      "bytes": 1832792
+    },
+    {
+      "pack": "gpt1",
+      "name": "哈欠连天",
+      "webm": "pets/gpt1/哈欠连天.webm",
+      "bytes": 1619602
+    },
+    {
+      "pack": "gpt1",
+      "name": "垂头叹气冒汗",
+      "webm": "pets/gpt1/垂头叹气冒汗.webm",
+      "bytes": 1459004
+    },
+    {
+      "pack": "gpt1",
+      "name": "大口吃零食",
+      "webm": "pets/gpt1/大口吃零食.webm",
+      "bytes": 2132710
+    },
+    {
+      "pack": "gpt1",
+      "name": "害羞惊讶",
+      "webm": "pets/gpt1/害羞惊讶.webm",
+      "bytes": 1540159
+    },
+    {
+      "pack": "gpt1",
+      "name": "对屏碎碎念",
+      "webm": "pets/gpt1/对屏碎碎念.webm",
+      "bytes": 1509154
+    },
+    {
+      "pack": "gpt1",
+      "name": "小提琴演奏",
+      "webm": "pets/gpt1/小提琴演奏.webm",
+      "bytes": 1909348
+    },
+    {
+      "pack": "gpt1",
+      "name": "开心跃动",
+      "webm": "pets/gpt1/开心跃动.webm",
+      "bytes": 1480737
+    },
+    {
+      "pack": "gpt1",
+      "name": "待机呼吸休闲",
+      "webm": "pets/gpt1/待机呼吸休闲.webm",
+      "bytes": 1454374
+    },
+    {
+      "pack": "gpt1",
+      "name": "忙碌点按",
+      "webm": "pets/gpt1/忙碌点按.webm",
+      "bytes": 1607632
+    },
+    {
+      "pack": "gpt1",
+      "name": "思考冒泡",
+      "webm": "pets/gpt1/思考冒泡.webm",
+      "bytes": 1432314
+    },
+    {
+      "pack": "gpt1",
+      "name": "悠闲哼歌",
+      "webm": "pets/gpt1/悠闲哼歌.webm",
+      "bytes": 1739129
+    },
+    {
+      "pack": "gpt1",
+      "name": "打瞌睡被惊醒",
+      "webm": "pets/gpt1/打瞌睡被惊醒.webm",
+      "bytes": 1827846
+    },
+    {
+      "pack": "gpt1",
+      "name": "抽陀螺",
+      "webm": "pets/gpt1/抽陀螺.webm",
+      "bytes": 1917719
+    },
+    {
+      "pack": "gpt1",
+      "name": "拆礼物",
+      "webm": "pets/gpt1/拆礼物.webm",
+      "bytes": 1813798
+    },
+    {
+      "pack": "gpt1",
+      "name": "挠痒咯咯笑",
+      "webm": "pets/gpt1/挠痒咯咯笑.webm",
+      "bytes": 1662072
+    },
+    {
+      "pack": "gpt1",
+      "name": "提裙屈膝礼仪",
+      "webm": "pets/gpt1/提裙屈膝礼仪.webm",
+      "bytes": 1574253
+    },
+    {
+      "pack": "gpt1",
+      "name": "插茱萸赏菊",
+      "webm": "pets/gpt1/插茱萸赏菊.webm",
+      "bytes": 1841014
+    },
+    {
+      "pack": "gpt1",
+      "name": "摇扇纳凉",
+      "webm": "pets/gpt1/摇扇纳凉.webm",
+      "bytes": 1860274
+    },
+    {
+      "pack": "gpt1",
+      "name": "撸猫",
+      "webm": "pets/gpt1/撸猫.webm",
+      "bytes": 1517913
+    },
+    {
+      "pack": "gpt1",
+      "name": "收红包",
+      "webm": "pets/gpt1/收红包.webm",
+      "bytes": 1611116
+    },
+    {
+      "pack": "gpt1",
+      "name": "放孔明灯",
+      "webm": "pets/gpt1/放孔明灯.webm",
+      "bytes": 1309535
+    },
+    {
+      "pack": "gpt1",
+      "name": "放河灯",
+      "webm": "pets/gpt1/放河灯.webm",
+      "bytes": 1349069
+    },
+    {
+      "pack": "gpt1",
+      "name": "放烟花",
+      "webm": "pets/gpt1/放烟花.webm",
+      "bytes": 2128632
+    },
+    {
+      "pack": "gpt1",
+      "name": "数钱皱眉",
+      "webm": "pets/gpt1/数钱皱眉.webm",
+      "bytes": 1385428
+    },
+    {
+      "pack": "gpt1",
+      "name": "整体换装试色",
+      "webm": "pets/gpt1/整体换装试色.webm",
+      "bytes": 1877326
+    },
+    {
+      "pack": "gpt1",
+      "name": "是啊吃什么",
+      "webm": "pets/gpt1/是啊吃什么.webm",
+      "bytes": 1742481
+    },
+    {
+      "pack": "gpt1",
+      "name": "晨间刷牙",
+      "webm": "pets/gpt1/晨间刷牙.webm",
+      "bytes": 1490732
+    },
+    {
+      "pack": "gpt1",
+      "name": "涮火锅",
+      "webm": "pets/gpt1/涮火锅.webm",
+      "bytes": 1651987
+    },
+    {
+      "pack": "gpt1",
+      "name": "深度思考碎碎念",
+      "webm": "pets/gpt1/深度思考碎碎念.webm",
+      "bytes": 1650813
+    },
+    {
+      "pack": "gpt1",
+      "name": "玩游戏气急败坏",
+      "webm": "pets/gpt1/玩游戏气急败坏.webm",
+      "bytes": 1458614
+    },
+    {
+      "pack": "gpt1",
+      "name": "用龙尾拍打地面",
+      "webm": "pets/gpt1/用龙尾拍打地面.webm",
+      "bytes": 1433575
+    },
+    {
+      "pack": "gpt1",
+      "name": "白龙现世",
+      "webm": "pets/gpt1/白龙现世.webm",
+      "bytes": 1752348
+    },
+    {
+      "pack": "gpt1",
+      "name": "穿针乞巧",
+      "webm": "pets/gpt1/穿针乞巧.webm",
+      "bytes": 1626997
+    },
+    {
+      "pack": "gpt1",
+      "name": "舞狮头",
+      "webm": "pets/gpt1/舞狮头.webm",
+      "bytes": 1942730
+    },
+    {
+      "pack": "gpt1",
+      "name": "蝴蝶蜜蜂环绕头顶开花",
+      "webm": "pets/gpt1/蝴蝶蜜蜂环绕头顶开花.webm",
+      "bytes": 2392466
+    },
+    {
+      "pack": "gpt1",
+      "name": "袋空如洗",
+      "webm": "pets/gpt1/袋空如洗.webm",
+      "bytes": 1693041
+    },
+    {
+      "pack": "gpt1",
+      "name": "被吓一跳",
+      "webm": "pets/gpt1/被吓一跳.webm",
+      "bytes": 1170405
+    },
+    {
+      "pack": "gpt1",
+      "name": "被落叶淹没",
+      "webm": "pets/gpt1/被落叶淹没.webm",
+      "bytes": 2470137
+    },
+    {
+      "pack": "gpt1",
+      "name": "被鼠标拖拽悬空反馈",
+      "webm": "pets/gpt1/被鼠标拖拽悬空反馈.webm",
+      "bytes": 1452550
+    },
+    {
+      "pack": "gpt1",
+      "name": "装点圣诞树",
+      "webm": "pets/gpt1/装点圣诞树.webm",
+      "bytes": 1976231
+    },
+    {
+      "pack": "gpt1",
+      "name": "超大伸懒腰",
+      "webm": "pets/gpt1/超大伸懒腰.webm",
+      "bytes": 1556411
+    },
+    {
+      "pack": "gpt1",
+      "name": "踢毽子",
+      "webm": "pets/gpt1/踢毽子.webm",
+      "bytes": 1773321
+    },
+    {
+      "pack": "gpt1",
+      "name": "轻快记录",
+      "webm": "pets/gpt1/轻快记录.webm",
+      "bytes": 1667574
+    },
+    {
+      "pack": "gpt1",
+      "name": "钱袋如常",
+      "webm": "pets/gpt1/钱袋如常.webm",
+      "bytes": 1411563
+    },
+    {
+      "pack": "gpt1",
+      "name": "钱袋满溢",
+      "webm": "pets/gpt1/钱袋满溢.webm",
+      "bytes": 1573116
+    },
+    {
+      "pack": "gpt1",
+      "name": "银袋叮当",
+      "webm": "pets/gpt1/银袋叮当.webm",
+      "bytes": 1796468
+    },
+    {
+      "pack": "gpt1",
+      "name": "雀跃庆祝",
+      "webm": "pets/gpt1/雀跃庆祝.webm",
+      "bytes": 1584780
+    },
+    {
+      "pack": "gpt1",
+      "name": "骑木马",
+      "webm": "pets/gpt1/骑木马.webm",
+      "bytes": 1703481
+    },
+    {
+      "pack": "gpt1",
+      "name": "龙息吐泡泡特效",
+      "webm": "pets/gpt1/龙息吐泡泡特效.webm",
+      "bytes": 1406878
+    },
+    {
+      "pack": "claude",
+      "name": "三球抛接",
+      "webm": "pets/claude/三球抛接.webm",
+      "bytes": 1541519
+    },
+    {
+      "pack": "claude",
+      "name": "下五子棋",
+      "webm": "pets/claude/下五子棋.webm",
+      "bytes": 1389204
+    },
+    {
+      "pack": "claude",
+      "name": "中秋赏月吃月饼",
+      "webm": "pets/claude/中秋赏月吃月饼.webm",
+      "bytes": 1690393
+    },
+    {
+      "pack": "claude",
+      "name": "串珠链",
+      "webm": "pets/claude/串珠链.webm",
+      "bytes": 1136872
+    },
+    {
+      "pack": "claude",
+      "name": "举手遮阳偷看",
+      "webm": "pets/claude/举手遮阳偷看.webm",
+      "bytes": 1180377
+    },
+    {
+      "pack": "claude",
+      "name": "伸脚趾",
+      "webm": "pets/claude/伸脚趾.webm",
+      "bytes": 1330631
+    },
+    {
+      "pack": "claude",
+      "name": "余额-分文不剩",
+      "webm": "pets/claude/余额-分文不剩.webm",
+      "bytes": 1393383
+    },
+    {
+      "pack": "claude",
+      "name": "余额-数金皱眉",
+      "webm": "pets/claude/余额-数金皱眉.webm",
+      "bytes": 1361048
+    },
+    {
+      "pack": "claude",
+      "name": "余额-袋空如洗",
+      "webm": "pets/claude/余额-袋空如洗.webm",
+      "bytes": 1308267
+    },
+    {
+      "pack": "claude",
+      "name": "余额-金袋叮当",
+      "webm": "pets/claude/余额-金袋叮当.webm",
+      "bytes": 1500890
+    },
+    {
+      "pack": "claude",
+      "name": "余额-钱袋满溢",
+      "webm": "pets/claude/余额-钱袋满溢.webm",
+      "bytes": 1459022
+    },
+    {
+      "pack": "claude",
+      "name": "写代码",
+      "webm": "pets/claude/写代码.webm",
+      "bytes": 1104728
+    },
+    {
+      "pack": "claude",
+      "name": "冲可可",
+      "webm": "pets/claude/冲可可.webm",
+      "bytes": 1241184
+    },
+    {
+      "pack": "claude",
+      "name": "凭空生花",
+      "webm": "pets/claude/凭空生花.webm",
+      "bytes": 1419002
+    },
+    {
+      "pack": "claude",
+      "name": "分巧克力",
+      "webm": "pets/claude/分巧克力.webm",
+      "bytes": 1018695
+    },
+    {
+      "pack": "claude",
+      "name": "刨冰屑",
+      "webm": "pets/claude/刨冰屑.webm",
+      "bytes": 1149198
+    },
+    {
+      "pack": "claude",
+      "name": "削铅笔",
+      "webm": "pets/claude/削铅笔.webm",
+      "bytes": 1120719
+    },
+    {
+      "pack": "claude",
+      "name": "剥栗子",
+      "webm": "pets/claude/剥栗子.webm",
+      "bytes": 1092313
+    },
+    {
+      "pack": "claude",
+      "name": "动物环绕",
+      "webm": "pets/claude/动物环绕.webm",
+      "bytes": 1981513
+    },
+    {
+      "pack": "claude",
+      "name": "原地踏雪",
+      "webm": "pets/claude/原地踏雪.webm",
+      "bytes": 1308365
+    },
+    {
+      "pack": "claude",
+      "name": "变鸽子",
+      "webm": "pets/claude/变鸽子.webm",
+      "bytes": 1412977
+    },
+    {
+      "pack": "claude",
+      "name": "叠叠乐",
+      "webm": "pets/claude/叠叠乐.webm",
+      "bytes": 1146993
+    },
+    {
+      "pack": "claude",
+      "name": "吃Token",
+      "webm": "pets/claude/吃Token.webm",
+      "bytes": 1281876
+    },
+    {
+      "pack": "claude",
+      "name": "吃午餐",
+      "webm": "pets/claude/吃午餐.webm",
+      "bytes": 1157322
+    },
+    {
+      "pack": "claude",
+      "name": "吃大闸蟹",
+      "webm": "pets/claude/吃大闸蟹.webm",
+      "bytes": 1289354
+    },
+    {
+      "pack": "claude",
+      "name": "吃年糕",
+      "webm": "pets/claude/吃年糕.webm",
+      "bytes": 1256927
+    },
+    {
+      "pack": "claude",
+      "name": "吃晚餐",
+      "webm": "pets/claude/吃晚餐.webm",
+      "bytes": 1517953
+    },
+    {
+      "pack": "claude",
+      "name": "吃汤圆",
+      "webm": "pets/claude/吃汤圆.webm",
+      "bytes": 1250236
+    },
+    {
+      "pack": "claude",
+      "name": "吃粽子",
+      "webm": "pets/claude/吃粽子.webm",
+      "bytes": 1247867
+    },
+    {
+      "pack": "claude",
+      "name": "吃糖葫芦",
+      "webm": "pets/claude/吃糖葫芦.webm",
+      "bytes": 1237872
+    },
+    {
+      "pack": "claude",
+      "name": "吃腊八粥",
+      "webm": "pets/claude/吃腊八粥.webm",
+      "bytes": 1279609
+    },
+    {
+      "pack": "claude",
+      "name": "吃西瓜",
+      "webm": "pets/claude/吃西瓜.webm",
+      "bytes": 1334299
+    },
+    {
+      "pack": "claude",
+      "name": "吃重阳糕",
+      "webm": "pets/claude/吃重阳糕.webm",
+      "bytes": 1295898
+    },
+    {
+      "pack": "claude",
+      "name": "吃青团",
+      "webm": "pets/claude/吃青团.webm",
+      "bytes": 1026288
+    },
+    {
+      "pack": "claude",
+      "name": "听蝉",
+      "webm": "pets/claude/听蝉.webm",
+      "bytes": 1060418
+    },
+    {
+      "pack": "claude",
+      "name": "吸布丁",
+      "webm": "pets/claude/吸布丁.webm",
+      "bytes": 993983
+    },
+    {
+      "pack": "claude",
+      "name": "吹叶笛",
+      "webm": "pets/claude/吹叶笛.webm",
+      "bytes": 1068404
+    },
+    {
+      "pack": "claude",
+      "name": "吹笛子",
+      "webm": "pets/claude/吹笛子.webm",
+      "bytes": 1509781
+    },
+    {
+      "pack": "claude",
+      "name": "吹蒲公英",
+      "webm": "pets/claude/吹蒲公英.webm",
+      "bytes": 1078613
+    },
+    {
+      "pack": "claude",
+      "name": "咬指甲",
+      "webm": "pets/claude/咬指甲.webm",
+      "bytes": 936864
+    },
+    {
+      "pack": "claude",
+      "name": "咬脆饼",
+      "webm": "pets/claude/咬脆饼.webm",
+      "bytes": 1125704
+    },
+    {
+      "pack": "claude",
+      "name": "啃玉米",
+      "webm": "pets/claude/啃玉米.webm",
+      "bytes": 1075064
+    },
+    {
+      "pack": "claude",
+      "name": "喝汤吹凉",
+      "webm": "pets/claude/喝汤吹凉.webm",
+      "bytes": 1073992
+    },
+    {
+      "pack": "claude",
+      "name": "堆雪人",
+      "webm": "pets/claude/堆雪人.webm",
+      "bytes": 1363508
+    },
+    {
+      "pack": "claude",
+      "name": "工作状态-垂头叹气冒汗",
+      "webm": "pets/claude/工作状态-垂头叹气冒汗.webm",
+      "bytes": 1229130
+    },
+    {
+      "pack": "claude",
+      "name": "工作状态-忙碌点按",
+      "webm": "pets/claude/工作状态-忙碌点按.webm",
+      "bytes": 1360914
+    },
+    {
+      "pack": "claude",
+      "name": "工作状态-思考冒泡",
+      "webm": "pets/claude/工作状态-思考冒泡.webm",
+      "bytes": 1114509
+    },
+    {
+      "pack": "claude",
+      "name": "工作状态-清点归档",
+      "webm": "pets/claude/工作状态-清点归档.webm",
+      "bytes": 1321565
+    },
+    {
+      "pack": "claude",
+      "name": "工作状态-雀跃庆祝",
+      "webm": "pets/claude/工作状态-雀跃庆祝.webm",
+      "bytes": 1372852
+    },
+    {
+      "pack": "claude",
+      "name": "弹玻璃杯沿",
+      "webm": "pets/claude/弹玻璃杯沿.webm",
+      "bytes": 957643
+    },
+    {
+      "pack": "claude",
+      "name": "弹空气吉他",
+      "webm": "pets/claude/弹空气吉他.webm",
+      "bytes": 1244816
+    },
+    {
+      "pack": "claude",
+      "name": "弹空气吉他v2",
+      "webm": "pets/claude/弹空气吉他v2.webm",
+      "bytes": 1286916
+    },
+    {
+      "pack": "claude",
+      "name": "弹空气吉他v3",
+      "webm": "pets/claude/弹空气吉他v3.webm",
+      "bytes": 1040928
+    },
+    {
+      "pack": "claude",
+      "name": "弹脑门",
+      "webm": "pets/claude/弹脑门.webm",
+      "bytes": 1019233
+    },
+    {
+      "pack": "claude",
+      "name": "待机呼吸休闲",
+      "webm": "pets/claude/待机呼吸休闲.webm",
+      "bytes": 1125402
+    },
+    {
+      "pack": "claude",
+      "name": "憋气鼓腮",
+      "webm": "pets/claude/憋气鼓腮.webm",
+      "bytes": 1025505
+    },
+    {
+      "pack": "claude",
+      "name": "戳泡泡纸",
+      "webm": "pets/claude/戳泡泡纸.webm",
+      "bytes": 994745
+    },
+    {
+      "pack": "claude",
+      "name": "手摇八音盒",
+      "webm": "pets/claude/手摇八音盒.webm",
+      "bytes": 891195
+    },
+    {
+      "pack": "claude",
+      "name": "扎束干花",
+      "webm": "pets/claude/扎束干花.webm",
+      "bytes": 1103588
+    },
+    {
+      "pack": "claude",
+      "name": "扑克魔术",
+      "webm": "pets/claude/扑克魔术.webm",
+      "bytes": 1369059
+    },
+    {
+      "pack": "claude",
+      "name": "打拍子数拍",
+      "webm": "pets/claude/打拍子数拍.webm",
+      "bytes": 902967
+    },
+    {
+      "pack": "claude",
+      "name": "打水漂",
+      "webm": "pets/claude/打水漂.webm",
+      "bytes": 1161465
+    },
+    {
+      "pack": "claude",
+      "name": "打铁小铃",
+      "webm": "pets/claude/打铁小铃.webm",
+      "bytes": 1033232
+    },
+    {
+      "pack": "claude",
+      "name": "抓痒",
+      "webm": "pets/claude/抓痒.webm",
+      "bytes": 1163876
+    },
+    {
+      "pack": "claude",
+      "name": "抖空竹",
+      "webm": "pets/claude/抖空竹.webm",
+      "bytes": 1105530
+    },
+    {
+      "pack": "claude",
+      "name": "抖腿",
+      "webm": "pets/claude/抖腿.webm",
+      "bytes": 1098154
+    },
+    {
+      "pack": "claude",
+      "name": "折小纸船",
+      "webm": "pets/claude/折小纸船.webm",
+      "bytes": 878696
+    },
+    {
+      "pack": "claude",
+      "name": "抛帽接帽",
+      "webm": "pets/claude/抛帽接帽.webm",
+      "bytes": 1094041
+    },
+    {
+      "pack": "claude",
+      "name": "抛接小苹果",
+      "webm": "pets/claude/抛接小苹果.webm",
+      "bytes": 1049894
+    },
+    {
+      "pack": "claude",
+      "name": "抠鼻子",
+      "webm": "pets/claude/抠鼻子.webm",
+      "bytes": 930118
+    },
+    {
+      "pack": "claude",
+      "name": "抱暖手炉",
+      "webm": "pets/claude/抱暖手炉.webm",
+      "bytes": 1025083
+    },
+    {
+      "pack": "claude",
+      "name": "抽陀螺",
+      "webm": "pets/claude/抽陀螺.webm",
+      "bytes": 1688618
+    },
+    {
+      "pack": "claude",
+      "name": "拆礼物",
+      "webm": "pets/claude/拆礼物.webm",
+      "bytes": 1339347
+    },
+    {
+      "pack": "claude",
+      "name": "拍枕头",
+      "webm": "pets/claude/拍枕头.webm",
+      "bytes": 1066196
+    },
+    {
+      "pack": "claude",
+      "name": "拨算盘珠",
+      "webm": "pets/claude/拨算盘珠.webm",
+      "bytes": 952937
+    },
+    {
+      "pack": "claude",
+      "name": "按音叉",
+      "webm": "pets/claude/按音叉.webm",
+      "bytes": 1004699
+    },
+    {
+      "pack": "claude",
+      "name": "挑鱼刺",
+      "webm": "pets/claude/挑鱼刺.webm",
+      "bytes": 1055036
+    },
+    {
+      "pack": "claude",
+      "name": "挠脚心",
+      "webm": "pets/claude/挠脚心.webm",
+      "bytes": 960574
+    },
+    {
+      "pack": "claude",
+      "name": "捏陶土",
+      "webm": "pets/claude/捏陶土.webm",
+      "bytes": 1083087
+    },
+    {
+      "pack": "claude",
+      "name": "捏饭团",
+      "webm": "pets/claude/捏饭团.webm",
+      "bytes": 1070793
+    },
+    {
+      "pack": "claude",
+      "name": "掌心接雪花",
+      "webm": "pets/claude/掌心接雪花.webm",
+      "bytes": 997287
+    },
+    {
+      "pack": "claude",
+      "name": "接雨滴",
+      "webm": "pets/claude/接雨滴.webm",
+      "bytes": 1088265
+    },
+    {
+      "pack": "claude",
+      "name": "掰手指",
+      "webm": "pets/claude/掰手指.webm",
+      "bytes": 948095
+    },
+    {
+      "pack": "claude",
+      "name": "揉眼睛",
+      "webm": "pets/claude/揉眼睛.webm",
+      "bytes": 996955
+    },
+    {
+      "pack": "claude",
+      "name": "描瓷纹",
+      "webm": "pets/claude/描瓷纹.webm",
+      "bytes": 872023
+    },
+    {
+      "pack": "claude",
+      "name": "插茱萸赏菊",
+      "webm": "pets/claude/插茱萸赏菊.webm",
+      "bytes": 1339319
+    },
+    {
+      "pack": "claude",
+      "name": "揪耳朵",
+      "webm": "pets/claude/揪耳朵.webm",
+      "bytes": 1047577
+    },
+    {
+      "pack": "claude",
+      "name": "搓手哈气取暖",
+      "webm": "pets/claude/搓手哈气取暖.webm",
+      "bytes": 1056947
+    },
+    {
+      "pack": "claude",
+      "name": "摇小风铃",
+      "webm": "pets/claude/摇小风铃.webm",
+      "bytes": 955139
+    },
+    {
+      "pack": "claude",
+      "name": "摇扇纳凉",
+      "webm": "pets/claude/摇扇纳凉.webm",
+      "bytes": 1292735
+    },
+    {
+      "pack": "claude",
+      "name": "摇汽水瓶",
+      "webm": "pets/claude/摇汽水瓶.webm",
+      "bytes": 1191251
+    },
+    {
+      "pack": "claude",
+      "name": "摇沙锤",
+      "webm": "pets/claude/摇沙锤.webm",
+      "bytes": 1189196
+    },
+    {
+      "pack": "claude",
+      "name": "摇骰盅",
+      "webm": "pets/claude/摇骰盅.webm",
+      "bytes": 1047976
+    },
+    {
+      "pack": "claude",
+      "name": "摸肚子",
+      "webm": "pets/claude/摸肚子.webm",
+      "bytes": 1103644
+    },
+    {
+      "pack": "claude",
+      "name": "撑透明小伞",
+      "webm": "pets/claude/撑透明小伞.webm",
+      "bytes": 1461343
+    },
+    {
+      "pack": "claude",
+      "name": "撸猫",
+      "webm": "pets/claude/撸猫.webm",
+      "bytes": 1078061
+    },
+    {
+      "pack": "claude",
+      "name": "放孔明灯",
+      "webm": "pets/claude/放孔明灯.webm",
+      "bytes": 1207273
+    },
+    {
+      "pack": "claude",
+      "name": "放河灯",
+      "webm": "pets/claude/放河灯.webm",
+      "bytes": 1128632
+    },
+    {
+      "pack": "claude",
+      "name": "放风筝",
+      "webm": "pets/claude/放风筝.webm",
+      "bytes": 1546899
+    },
+    {
+      "pack": "claude",
+      "name": "敲三角铁",
+      "webm": "pets/claude/敲三角铁.webm",
+      "bytes": 950829
+    },
+    {
+      "pack": "claude",
+      "name": "敲木鱼",
+      "webm": "pets/claude/敲木鱼.webm",
+      "bytes": 941212
+    },
+    {
+      "pack": "claude",
+      "name": "晨间刷牙",
+      "webm": "pets/claude/晨间刷牙.webm",
+      "bytes": 1393611
+    },
+    {
+      "pack": "claude",
+      "name": "涮火锅",
+      "webm": "pets/claude/涮火锅.webm",
+      "bytes": 1167768
+    },
+    {
+      "pack": "claude",
+      "name": "点击回应-元气挥手",
+      "webm": "pets/claude/点击回应-元气挥手.webm",
+      "bytes": 1317142
+    },
+    {
+      "pack": "claude",
+      "name": "点击回应-挠痒咯咯笑",
+      "webm": "pets/claude/点击回应-挠痒咯咯笑.webm",
+      "bytes": 1270414
+    },
+    {
+      "pack": "claude",
+      "name": "烤红薯",
+      "webm": "pets/claude/烤红薯.webm",
+      "bytes": 1098762
+    },
+    {
+      "pack": "claude",
+      "name": "甩手甩水",
+      "webm": "pets/claude/甩手甩水.webm",
+      "bytes": 1154315
+    },
+    {
+      "pack": "claude",
+      "name": "碎碎念-对屏碎碎念",
+      "webm": "pets/claude/碎碎念-对屏碎碎念.webm",
+      "bytes": 1185887
+    },
+    {
+      "pack": "claude",
+      "name": "磨墨",
+      "webm": "pets/claude/磨墨.webm",
+      "bytes": 849699
+    },
+    {
+      "pack": "claude",
+      "name": "穿针乞巧",
+      "webm": "pets/claude/穿针乞巧.webm",
+      "bytes": 1361461
+    },
+    {
+      "pack": "claude",
+      "name": "糊纸伞骨",
+      "webm": "pets/claude/糊纸伞骨.webm",
+      "bytes": 1091116
+    },
+    {
+      "pack": "claude",
+      "name": "绕线轴",
+      "webm": "pets/claude/绕线轴.webm",
+      "bytes": 987277
+    },
+    {
+      "pack": "claude",
+      "name": "编草蚱蜢",
+      "webm": "pets/claude/编草蚱蜢.webm",
+      "bytes": 1000027
+    },
+    {
+      "pack": "claude",
+      "name": "缝布偶",
+      "webm": "pets/claude/缝布偶.webm",
+      "bytes": 989923
+    },
+    {
+      "pack": "claude",
+      "name": "翻花绳",
+      "webm": "pets/claude/翻花绳.webm",
+      "bytes": 978785
+    },
+    {
+      "pack": "claude",
+      "name": "舀蜂蜜v2",
+      "webm": "pets/claude/舀蜂蜜v2.webm",
+      "bytes": 1053759
+    },
+    {
+      "pack": "claude",
+      "name": "舞狮头",
+      "webm": "pets/claude/舞狮头.webm",
+      "bytes": 1538950
+    },
+    {
+      "pack": "claude",
+      "name": "萌化小幽灵",
+      "webm": "pets/claude/萌化小幽灵.webm",
+      "bytes": 1265379
+    },
+    {
+      "pack": "claude",
+      "name": "蝴蝶蜜蜂环绕头顶开花",
+      "webm": "pets/claude/蝴蝶蜜蜂环绕头顶开花.webm",
+      "bytes": 1983669
+    },
+    {
+      "pack": "claude",
+      "name": "螃蟹走路",
+      "webm": "pets/claude/螃蟹走路.webm",
+      "bytes": 1442778
+    },
+    {
+      "pack": "claude",
+      "name": "原地左转奔跑",
+      "webm": "pets/claude/原地左转奔跑.webm",
+      "bytes": 1298564
+    },
+    {
+      "pack": "claude",
+      "name": "被落叶淹没",
+      "webm": "pets/claude/被落叶淹没.webm",
+      "bytes": 2051123
+    },
+    {
+      "pack": "claude",
+      "name": "被落叶淹没v2",
+      "webm": "pets/claude/被落叶淹没v2.webm",
+      "bytes": 2611958
+    },
+    {
+      "pack": "claude",
+      "name": "被风吹乱发型",
+      "webm": "pets/claude/被风吹乱发型.webm",
+      "bytes": 1389846
+    },
+    {
+      "pack": "claude",
+      "name": "被鼠标拖拽悬空反馈",
+      "webm": "pets/claude/被鼠标拖拽悬空反馈.webm",
+      "bytes": 1201076
+    },
+    {
+      "pack": "claude",
+      "name": "原地漂浮踏步",
+      "webm": "pets/claude/原地漂浮踏步.webm",
+      "bytes": 1135405
+    },
+    {
+      "pack": "claude",
+      "name": "装点圣诞树",
+      "webm": "pets/claude/装点圣诞树.webm",
+      "bytes": 1588362
+    },
+    {
+      "pack": "claude",
+      "name": "装点圣诞树v2",
+      "webm": "pets/claude/装点圣诞树v2.webm",
+      "bytes": 1640562
+    },
+    {
+      "pack": "claude",
+      "name": "装点圣诞树v3",
+      "webm": "pets/claude/装点圣诞树v3.webm",
+      "bytes": 1442101
+    },
+    {
+      "pack": "claude",
+      "name": "讨糖南瓜灯",
+      "webm": "pets/claude/讨糖南瓜灯.webm",
+      "bytes": 1313730
+    },
+    {
+      "pack": "claude",
+      "name": "踢毽子",
+      "webm": "pets/claude/踢毽子.webm",
+      "bytes": 1441035
+    },
+    {
+      "pack": "claude",
+      "name": "踩影子",
+      "webm": "pets/claude/踩影子.webm",
+      "bytes": 1088672
+    },
+    {
+      "pack": "claude",
+      "name": "转伞",
+      "webm": "pets/claude/转伞.webm",
+      "bytes": 1418346
+    },
+    {
+      "pack": "claude",
+      "name": "转手腕",
+      "webm": "pets/claude/转手腕.webm",
+      "bytes": 1124689
+    },
+    {
+      "pack": "claude",
+      "name": "转盘子",
+      "webm": "pets/claude/转盘子.webm",
+      "bytes": 1012779
+    },
+    {
+      "pack": "claude",
+      "name": "转笔",
+      "webm": "pets/claude/转笔.webm",
+      "bytes": 1003915
+    },
+    {
+      "pack": "claude",
+      "name": "轻快记录",
+      "webm": "pets/claude/轻快记录.webm",
+      "bytes": 1208893
+    },
+    {
+      "pack": "claude",
+      "name": "闻咖啡豆",
+      "webm": "pets/claude/闻咖啡豆.webm",
+      "bytes": 1084607
+    },
+    {
+      "pack": "claude",
+      "name": "骑木马",
+      "webm": "pets/claude/骑木马.webm",
+      "bytes": 1419637
+    },
+    {
+      "pack": "claude",
+      "name": "东张西望",
+      "webm": "pets/claude/东张西望.webm",
+      "bytes": 1115204
+    },
+    {
+      "pack": "claude",
+      "name": "书灵现世",
+      "webm": "pets/claude/书灵现世.webm",
+      "bytes": 1092891
+    },
+    {
+      "pack": "claude",
+      "name": "书页拍打节奏",
+      "webm": "pets/claude/书页拍打节奏.webm",
+      "bytes": 835770
+    },
+    {
+      "pack": "claude",
+      "name": "优雅裙摆舞",
+      "webm": "pets/claude/优雅裙摆舞.webm",
+      "bytes": 1232029
+    },
+    {
+      "pack": "claude",
+      "name": "偷吃零食被抓住",
+      "webm": "pets/claude/偷吃零食被抓住.webm",
+      "bytes": 973226
+    },
+    {
+      "pack": "claude",
+      "name": "原地专心玩魔方",
+      "webm": "pets/claude/原地专心玩魔方.webm",
+      "bytes": 1055644
+    },
+    {
+      "pack": "claude",
+      "name": "原地小憩沉眠",
+      "webm": "pets/claude/原地小憩沉眠.webm",
+      "bytes": 865376
+    },
+    {
+      "pack": "claude",
+      "name": "原地敲击桌面互动",
+      "webm": "pets/claude/原地敲击桌面互动.webm",
+      "bytes": 953586
+    },
+    {
+      "pack": "claude",
+      "name": "原地蹲下玩玩具汽车",
+      "webm": "pets/claude/原地蹲下玩玩具汽车.webm",
+      "bytes": 1229976
+    },
+    {
+      "pack": "claude",
+      "name": "可爱宅舞",
+      "webm": "pets/claude/可爱宅舞.webm",
+      "bytes": 1294254
+    },
+    {
+      "pack": "claude",
+      "name": "吃白饭",
+      "webm": "pets/claude/吃白饭.webm",
+      "bytes": 1178240
+    },
+    {
+      "pack": "claude",
+      "name": "吹泡泡特效",
+      "webm": "pets/claude/吹泡泡特效.webm",
+      "bytes": 840467
+    },
+    {
+      "pack": "claude",
+      "name": "哈欠连天",
+      "webm": "pets/claude/哈欠连天.webm",
+      "bytes": 1205933
+    },
+    {
+      "pack": "claude",
+      "name": "小提琴演奏",
+      "webm": "pets/claude/小提琴演奏.webm",
+      "bytes": 1277948
+    },
+    {
+      "pack": "claude",
+      "name": "悠闲哼歌",
+      "webm": "pets/claude/悠闲哼歌.webm",
+      "bytes": 1218554
+    },
+    {
+      "pack": "claude",
+      "name": "打瞌睡被惊醒",
+      "webm": "pets/claude/打瞌睡被惊醒.webm",
+      "bytes": 1081289
+    },
+    {
+      "pack": "claude",
+      "name": "整体换装试色",
+      "webm": "pets/claude/整体换装试色.webm",
+      "bytes": 1264597
+    },
+    {
+      "pack": "claude",
+      "name": "淑女屈膝礼",
+      "webm": "pets/claude/淑女屈膝礼.webm",
+      "bytes": 979203
+    },
+    {
+      "pack": "claude",
+      "name": "深度思考碎碎念v4",
+      "webm": "pets/claude/深度思考碎碎念v4.webm",
+      "bytes": 1251919
+    },
+    {
+      "pack": "claude",
+      "name": "点击回应-傲娇生气",
+      "webm": "pets/claude/点击回应-傲娇生气.webm",
+      "bytes": 928610
+    },
+    {
+      "pack": "claude",
+      "name": "点击回应-害羞惊讶",
+      "webm": "pets/claude/点击回应-害羞惊讶.webm",
+      "bytes": 1026423
+    },
+    {
+      "pack": "claude",
+      "name": "点击回应-开心跃动",
+      "webm": "pets/claude/点击回应-开心跃动.webm",
+      "bytes": 954759
+    },
+    {
+      "pack": "claude",
+      "name": "玩水枪",
+      "webm": "pets/claude/玩水枪.webm",
+      "bytes": 1457447
+    },
+    {
+      "pack": "claude",
+      "name": "玩游戏气急败坏",
+      "webm": "pets/claude/玩游戏气急败坏.webm",
+      "bytes": 1129912
+    },
+    {
+      "pack": "claude",
+      "name": "被吓一跳",
+      "webm": "pets/claude/被吓一跳.webm",
+      "bytes": 822736
+    },
+    {
+      "pack": "claude",
+      "name": "超大伸懒腰",
+      "webm": "pets/claude/超大伸懒腰.webm",
+      "bytes": 990875
+    },
+    {
+      "pack": "claude",
+      "name": "轻快摇摆舞",
+      "webm": "pets/claude/轻快摇摆舞.webm",
+      "bytes": 1230102
+    },
+    {
+      "pack": "gemini",
+      "name": "下五子棋",
+      "webm": "pets/gemini/下五子棋.webm",
+      "bytes": 1330372
+    },
+    {
+      "pack": "gemini",
+      "name": "优雅猫耳娘舞",
+      "webm": "pets/gemini/优雅猫耳娘舞.webm",
+      "bytes": 1582836
+    },
+    {
+      "pack": "gemini",
+      "name": "余额-分文不剩",
+      "webm": "pets/gemini/余额-分文不剩.webm",
+      "bytes": 1223340
+    },
+    {
+      "pack": "gemini",
+      "name": "余额-数金皱眉",
+      "webm": "pets/gemini/余额-数金皱眉.webm",
+      "bytes": 1244253
+    },
+    {
+      "pack": "gemini",
+      "name": "余额-袋空如洗",
+      "webm": "pets/gemini/余额-袋空如洗.webm",
+      "bytes": 1320884
+    },
+    {
+      "pack": "gemini",
+      "name": "余额-金袋叮当",
+      "webm": "pets/gemini/余额-金袋叮当.webm",
+      "bytes": 1453543
+    },
+    {
+      "pack": "gemini",
+      "name": "余额-钱袋如常",
+      "webm": "pets/gemini/余额-钱袋如常.webm",
+      "bytes": 1390136
+    },
+    {
+      "pack": "gemini",
+      "name": "余额-钱袋满溢",
+      "webm": "pets/gemini/余额-钱袋满溢.webm",
+      "bytes": 1476515
+    },
+    {
+      "pack": "gemini",
+      "name": "偷吃零食被抓住",
+      "webm": "pets/gemini/偷吃零食被抓住.webm",
+      "bytes": 1179521
+    },
+    {
+      "pack": "gemini",
+      "name": "写代码",
+      "webm": "pets/gemini/写代码.webm",
+      "bytes": 1185599
+    },
+    {
+      "pack": "gemini",
+      "name": "写福字",
+      "webm": "pets/gemini/写福字.webm",
+      "bytes": 1441396
+    },
+    {
+      "pack": "gemini",
+      "name": "凭空生花",
+      "webm": "pets/gemini/凭空生花.webm",
+      "bytes": 1457092
+    },
+    {
+      "pack": "gemini",
+      "name": "动物环绕",
+      "webm": "pets/gemini/动物环绕.webm",
+      "bytes": 1958231
+    },
+    {
+      "pack": "gemini",
+      "name": "原地专心玩魔方",
+      "webm": "pets/gemini/原地专心玩魔方.webm",
+      "bytes": 1208387
+    },
+    {
+      "pack": "gemini",
+      "name": "原地小憩沉眠",
+      "webm": "pets/gemini/原地小憩沉眠.webm",
+      "bytes": 1169864
+    },
+    {
+      "pack": "gemini",
+      "name": "原地左转奔跑",
+      "webm": "pets/gemini/原地左转奔跑.webm",
+      "bytes": 1476327
+    },
+    {
+      "pack": "gemini",
+      "name": "原地敲击桌面互动",
+      "webm": "pets/gemini/原地敲击桌面互动.webm",
+      "bytes": 1208719
+    },
+    {
+      "pack": "gemini",
+      "name": "原地漂浮踏步",
+      "webm": "pets/gemini/原地漂浮踏步.webm",
+      "bytes": 1409135
+    },
+    {
+      "pack": "gemini",
+      "name": "原地跳跃抓碎头顶物品",
+      "webm": "pets/gemini/原地跳跃抓碎头顶物品.webm",
+      "bytes": 665034
+    },
+    {
+      "pack": "gemini",
+      "name": "原地蹲下玩玩具汽车",
+      "webm": "pets/gemini/原地蹲下玩玩具汽车.webm",
+      "bytes": 1248462
+    },
+    {
+      "pack": "gemini",
+      "name": "原地重力下蹲压缩",
+      "webm": "pets/gemini/原地重力下蹲压缩.webm",
+      "bytes": 868365
+    },
+    {
+      "pack": "gemini",
+      "name": "变鸽子",
+      "webm": "pets/gemini/变鸽子.webm",
+      "bytes": 1575409
+    },
+    {
+      "pack": "gemini",
+      "name": "可爱宅舞",
+      "webm": "pets/gemini/可爱宅舞.webm",
+      "bytes": 1567758
+    },
+    {
+      "pack": "gemini",
+      "name": "吃Token",
+      "webm": "pets/gemini/吃Token.webm",
+      "bytes": 1433449
+    },
+    {
+      "pack": "gemini",
+      "name": "吃冰淇淋融化",
+      "webm": "pets/gemini/吃冰淇淋融化.webm",
+      "bytes": 1381545
+    },
+    {
+      "pack": "gemini",
+      "name": "吃午餐",
+      "webm": "pets/gemini/吃午餐.webm",
+      "bytes": 1343138
+    },
+    {
+      "pack": "gemini",
+      "name": "吃大闸蟹",
+      "webm": "pets/gemini/吃大闸蟹.webm",
+      "bytes": 2434339
+    },
+    {
+      "pack": "gemini",
+      "name": "吃年糕",
+      "webm": "pets/gemini/吃年糕.webm",
+      "bytes": 1407347
+    },
+    {
+      "pack": "gemini",
+      "name": "吃早餐",
+      "webm": "pets/gemini/吃早餐.webm",
+      "bytes": 1275820
+    },
+    {
+      "pack": "gemini",
+      "name": "吃晚餐",
+      "webm": "pets/gemini/吃晚餐.webm",
+      "bytes": 1786055
+    },
+    {
+      "pack": "gemini",
+      "name": "吃汤圆",
+      "webm": "pets/gemini/吃汤圆.webm",
+      "bytes": 1486246
+    },
+    {
+      "pack": "gemini",
+      "name": "吃白饭",
+      "webm": "pets/gemini/吃白饭.webm",
+      "bytes": 1522991
+    },
+    {
+      "pack": "gemini",
+      "name": "吃粽子",
+      "webm": "pets/gemini/吃粽子.webm",
+      "bytes": 1428951
+    },
+    {
+      "pack": "gemini",
+      "name": "吃糖葫芦",
+      "webm": "pets/gemini/吃糖葫芦.webm",
+      "bytes": 1452773
+    },
+    {
+      "pack": "gemini",
+      "name": "吃腊八粥",
+      "webm": "pets/gemini/吃腊八粥.webm",
+      "bytes": 1448624
+    },
+    {
+      "pack": "gemini",
+      "name": "吃西瓜",
+      "webm": "pets/gemini/吃西瓜.webm",
+      "bytes": 2295601
+    },
+    {
+      "pack": "gemini",
+      "name": "吃重阳糕",
+      "webm": "pets/gemini/吃重阳糕.webm",
+      "bytes": 1570056
+    },
+    {
+      "pack": "gemini",
+      "name": "吃长寿面",
+      "webm": "pets/gemini/吃长寿面.webm",
+      "bytes": 1512059
+    },
+    {
+      "pack": "gemini",
+      "name": "吃青团",
+      "webm": "pets/gemini/吃青团.webm",
+      "bytes": 1424411
+    },
+    {
+      "pack": "gemini",
+      "name": "吃饺子",
+      "webm": "pets/gemini/吃饺子.webm",
+      "bytes": 1487431
+    },
+    {
+      "pack": "gemini",
+      "name": "吹气球",
+      "webm": "pets/gemini/吹气球.webm",
+      "bytes": 1459982
+    },
+    {
+      "pack": "gemini",
+      "name": "哈欠连天",
+      "webm": "pets/gemini/哈欠连天.webm",
+      "bytes": 1482304
+    },
+    {
+      "pack": "gemini",
+      "name": "嘟嘴吹泡泡特效",
+      "webm": "pets/gemini/嘟嘴吹泡泡特效.webm",
+      "bytes": 1324184
+    },
+    {
+      "pack": "gemini",
+      "name": "堆雪人",
+      "webm": "pets/gemini/堆雪人.webm",
+      "bytes": 1475652
+    },
+    {
+      "pack": "gemini",
+      "name": "大口吃零食",
+      "webm": "pets/gemini/大口吃零食.webm",
+      "bytes": 2400333
+    },
+    {
+      "pack": "gemini",
+      "name": "小幅度原地360度旋转展示",
+      "webm": "pets/gemini/小幅度原地360度旋转展示.webm",
+      "bytes": 1483297
+    },
+    {
+      "pack": "gemini",
+      "name": "小提琴演奏",
+      "webm": "pets/gemini/小提琴演奏.webm",
+      "bytes": 1582502
+    },
+    {
+      "pack": "gemini",
+      "name": "工作状态-原地踱步张望",
+      "webm": "pets/gemini/工作状态-原地踱步张望.webm",
+      "bytes": 1309091
+    },
+    {
+      "pack": "gemini",
+      "name": "工作状态-忙碌点按",
+      "webm": "pets/gemini/工作状态-忙碌点按.webm",
+      "bytes": 1394696
+    },
+    {
+      "pack": "gemini",
+      "name": "工作状态-思考冒泡",
+      "webm": "pets/gemini/工作状态-思考冒泡.webm",
+      "bytes": 1135078
+    },
+    {
+      "pack": "gemini",
+      "name": "工作状态-清点归档",
+      "webm": "pets/gemini/工作状态-清点归档.webm",
+      "bytes": 1287180
+    },
+    {
+      "pack": "gemini",
+      "name": "工作状态-雀跃庆祝",
+      "webm": "pets/gemini/工作状态-雀跃庆祝.webm",
+      "bytes": 1292911
+    },
+    {
+      "pack": "gemini",
+      "name": "待机呼吸休闲",
+      "webm": "pets/gemini/待机呼吸休闲.webm",
+      "bytes": 1031468
+    },
+    {
+      "pack": "gemini",
+      "name": "悠闲哼歌",
+      "webm": "pets/gemini/悠闲哼歌.webm",
+      "bytes": 1436277
+    },
+    {
+      "pack": "gemini",
+      "name": "扑克魔术",
+      "webm": "pets/gemini/扑克魔术.webm",
+      "bytes": 1443460
+    },
+    {
+      "pack": "gemini",
+      "name": "打瞌睡被惊醒",
+      "webm": "pets/gemini/打瞌睡被惊醒.webm",
+      "bytes": 1454858
+    },
+    {
+      "pack": "gemini",
+      "name": "抽陀螺",
+      "webm": "pets/gemini/抽陀螺.webm",
+      "bytes": 1552746
+    },
+    {
+      "pack": "gemini",
+      "name": "拆礼物",
+      "webm": "pets/gemini/拆礼物.webm",
+      "bytes": 1512441
+    },
+    {
+      "pack": "gemini",
+      "name": "插茱萸赏菊",
+      "webm": "pets/gemini/插茱萸赏菊.webm",
+      "bytes": 1488642
+    },
+    {
+      "pack": "gemini",
+      "name": "摇扇纳凉",
+      "webm": "pets/gemini/摇扇纳凉.webm",
+      "bytes": 1586706
+    },
+    {
+      "pack": "gemini",
+      "name": "收红包",
+      "webm": "pets/gemini/收红包.webm",
+      "bytes": 1422732
+    },
+    {
+      "pack": "gemini",
+      "name": "放孔明灯",
+      "webm": "pets/gemini/放孔明灯.webm",
+      "bytes": 1183237
+    },
+    {
+      "pack": "gemini",
+      "name": "放孔明灯v2",
+      "webm": "pets/gemini/放孔明灯v2.webm",
+      "bytes": 1058198
+    },
+    {
+      "pack": "gemini",
+      "name": "放河灯v2",
+      "webm": "pets/gemini/放河灯v2.webm",
+      "bytes": 1356521
+    },
+    {
+      "pack": "gemini",
+      "name": "放河灯v3",
+      "webm": "pets/gemini/放河灯v3.webm",
+      "bytes": 1198684
+    },
+    {
+      "pack": "gemini",
+      "name": "放烟花",
+      "webm": "pets/gemini/放烟花.webm",
+      "bytes": 2139179
+    },
+    {
+      "pack": "gemini",
+      "name": "放风筝",
+      "webm": "pets/gemini/放风筝.webm",
+      "bytes": 1547869
+    },
+    {
+      "pack": "gemini",
+      "name": "整体换装试色",
+      "webm": "pets/gemini/整体换装试色.webm",
+      "bytes": 1638910
+    },
+    {
+      "pack": "gemini",
+      "name": "星星精灵现世",
+      "webm": "pets/gemini/星星精灵现世.webm",
+      "bytes": 1714439
+    },
+    {
+      "pack": "gemini",
+      "name": "是啊，吃什么",
+      "webm": "pets/gemini/是啊，吃什么.webm",
+      "bytes": 1662337
+    },
+    {
+      "pack": "gemini",
+      "name": "晨间刷牙",
+      "webm": "pets/gemini/晨间刷牙.webm",
+      "bytes": 1279324
+    },
+    {
+      "pack": "gemini",
+      "name": "涮火锅",
+      "webm": "pets/gemini/涮火锅.webm",
+      "bytes": 1478863
+    },
+    {
+      "pack": "gemini",
+      "name": "深度思考碎碎念",
+      "webm": "pets/gemini/深度思考碎碎念.webm",
+      "bytes": 1248245
+    },
+    {
+      "pack": "gemini",
+      "name": "点击回应-傲娇生气",
+      "webm": "pets/gemini/点击回应-傲娇生气.webm",
+      "bytes": 1106507
+    },
+    {
+      "pack": "gemini",
+      "name": "点击回应-元气挥手",
+      "webm": "pets/gemini/点击回应-元气挥手.webm",
+      "bytes": 1356105
+    },
+    {
+      "pack": "gemini",
+      "name": "点击回应-害羞惊讶",
+      "webm": "pets/gemini/点击回应-害羞惊讶.webm",
+      "bytes": 1198078
+    },
+    {
+      "pack": "gemini",
+      "name": "点击回应-开心跃动",
+      "webm": "pets/gemini/点击回应-开心跃动.webm",
+      "bytes": 1210931
+    },
+    {
+      "pack": "gemini",
+      "name": "照镜子",
+      "webm": "pets/gemini/照镜子.webm",
+      "bytes": 1442012
+    },
+    {
+      "pack": "gemini",
+      "name": "猫耳娘屈膝礼仪",
+      "webm": "pets/gemini/猫耳娘屈膝礼仪.webm",
+      "bytes": 1163135
+    },
+    {
+      "pack": "gemini",
+      "name": "玩水枪",
+      "webm": "pets/gemini/玩水枪.webm",
+      "bytes": 1566000
+    },
+    {
+      "pack": "gemini",
+      "name": "玩游戏气急败坏",
+      "webm": "pets/gemini/玩游戏气急败坏.webm",
+      "bytes": 1238706
+    },
+    {
+      "pack": "gemini",
+      "name": "用蓬松紫色猫尾拍打地面",
+      "webm": "pets/gemini/用蓬松紫色猫尾拍打地面.webm",
+      "bytes": 1206489
+    },
+    {
+      "pack": "gemini",
+      "name": "碎碎念-发呆碎碎念",
+      "webm": "pets/gemini/碎碎念-发呆碎碎念.webm",
+      "bytes": 1098892
+    },
+    {
+      "pack": "gemini",
+      "name": "碎碎念-对屏碎碎念",
+      "webm": "pets/gemini/碎碎念-对屏碎碎念.webm",
+      "bytes": 896110
+    },
+    {
+      "pack": "gemini",
+      "name": "碎碎念-擦桌碎碎念",
+      "webm": "pets/gemini/碎碎念-擦桌碎碎念.webm",
+      "bytes": 1304879
+    },
+    {
+      "pack": "gemini",
+      "name": "穿针乞巧",
+      "webm": "pets/gemini/穿针乞巧.webm",
+      "bytes": 1383632
+    },
+    {
+      "pack": "gemini",
+      "name": "舞狮头",
+      "webm": "pets/gemini/舞狮头.webm",
+      "bytes": 1617140
+    },
+    {
+      "pack": "gemini",
+      "name": "荡秋千",
+      "webm": "pets/gemini/荡秋千.webm",
+      "bytes": 1553523
+    },
+    {
+      "pack": "gemini",
+      "name": "萌化小幽灵",
+      "webm": "pets/gemini/萌化小幽灵.webm",
+      "bytes": 1196648
+    },
+    {
+      "pack": "gemini",
+      "name": "蝴蝶蜜蜂环绕头顶开花",
+      "webm": "pets/gemini/蝴蝶蜜蜂环绕头顶开花.webm",
+      "bytes": 2065636
+    },
+    {
+      "pack": "gemini",
+      "name": "螃蟹走路",
+      "webm": "pets/gemini/螃蟹走路.webm",
+      "bytes": 1462434
+    },
+    {
+      "pack": "gemini",
+      "name": "被吓一跳",
+      "webm": "pets/gemini/被吓一跳.webm",
+      "bytes": 1086547
+    },
+    {
+      "pack": "gemini",
+      "name": "被落叶淹没",
+      "webm": "pets/gemini/被落叶淹没.webm",
+      "bytes": 2435647
+    },
+    {
+      "pack": "gemini",
+      "name": "被鼠标拖拽悬空反馈",
+      "webm": "pets/gemini/被鼠标拖拽悬空反馈.webm",
+      "bytes": 1280048
+    },
+    {
+      "pack": "gemini",
+      "name": "装点圣诞树",
+      "webm": "pets/gemini/装点圣诞树.webm",
+      "bytes": 1801192
+    },
+    {
+      "pack": "gemini",
+      "name": "讨糖南瓜灯",
+      "webm": "pets/gemini/讨糖南瓜灯.webm",
+      "bytes": 2218218
+    },
+    {
+      "pack": "gemini",
+      "name": "超大伸懒腰",
+      "webm": "pets/gemini/超大伸懒腰.webm",
+      "bytes": 1037607
+    },
+    {
+      "pack": "gemini",
+      "name": "轻快摇摆舞",
+      "webm": "pets/gemini/轻快摇摆舞.webm",
+      "bytes": 1722872
+    },
+    {
+      "pack": "gemini",
+      "name": "轻快记录",
+      "webm": "pets/gemini/轻快记录.webm",
+      "bytes": 1376866
+    },
+    {
+      "pack": "gemini",
+      "name": "骑木马",
+      "webm": "pets/gemini/骑木马.webm",
+      "bytes": 1607144
+    }
+  ]
+}
