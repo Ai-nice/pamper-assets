@@ -28,8 +28,8 @@ pets/claude/OK手势.webm
 
 把本目录作为一个独立 GitHub 仓库上传后，可得到：
 
-- jsDelivr（推荐，国内较快）：`https://cdn.jsdelivr.net/gh/<用户名>/<仓库>@main`
-- GitHub raw：`https://raw.githubusercontent.com/<用户名>/<仓库>/main`
+- jsDelivr（推荐，国内较快）：`https://cdn.jsdelivr.net/gh/Ai-nice/<仓库>@main`
+- GitHub raw：`https://raw.githubusercontent.com/Ai-nice/<仓库>/main`
 
 把该根地址填入主仓库 `plugin/dsh-action-store/cordis.patch.yml` 的 `assetBaseUrl`，重新安装插件即可。
 
